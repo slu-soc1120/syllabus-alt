@@ -1,0 +1,28 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: section
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><strong><a href="https://slu-soc1120.github.io/syllabus/">SOC 1120-05/05H Syllabus</a></strong></li>
+      after: |
+        <li><a href="https://bookdown.org" target="_blank">Published with bookdown</a></li>
+    edit: null
+    download: ["pdf"]
+    sharing:
+      facebook: no
+      twitter: no
+      google: no
+      weibo: no
+      instapaper: no
+      vk: no
+      all: null
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+    before_body: doc_prefix.tex
+  toc: false
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
