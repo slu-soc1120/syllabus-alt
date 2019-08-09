@@ -3,10 +3,6 @@ This section provides general details on the different types of assignments for 
 
 ## Assignments
 
-```{block, type = "rmdwarning"}
-Students enrolled in the honors section should see [Section 7](/honors-overview.html) for additional assignment descriptions as well as their weighting and final point totals.
-```
-
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below.
 
 ### Attendance and Participation
@@ -29,7 +25,7 @@ Your participation grade will be split, with 25 points (5% of your final grade) 
 Sociological experiences are worth **10%** of your final grade
 ```
 
-Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Monday, September 30^th^** and "The Suitcase" will be due on **Wednesday, November 6^th^**. Each reflection paper is worth 5% of your final grade.
+Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Tuesday, October 1^st^** and "The Suitcase" will be due on **Thursday, November 7^th^**. Each reflection paper is worth 5% of your final grade.
 
 ### QHQ Papers
 
@@ -37,7 +33,7 @@ Students will be required to complete two sociological experiences and write a s
 QHQ Papers are worth **20%** of your final grade
 ```
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Wednesday, October 9^th^**, QHQ Paper 2 will be due on **Wednesday, November 13^th^**, and QHQ Paper 3 will be due on **Monday, December 2^nd^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Thursday, October 10^th^**, QHQ Paper 2 will be due on **Thursday, November 14^th^**, and QHQ Paper 3 will be due on **Tuesday, December 3^rd^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
 
 ### Exams
 
@@ -45,7 +41,7 @@ Each student will write a QHQ reflection paper on three chapters (one chapter pe
 Exams are worth **60%** of your final grade
 ```
 
-Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Monday, September 23^rd^**, Exam 2 will be given on **Wednesday, October 30^th^**, and Exam 3 will be given during our class's schedule final exam period on **Monday, December 16^th^**. Please note that Exam 3 will be held at a slightly different time (from 2pm to 3:50pm, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20% of your final grade.
+Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Tuesday, September 24^th^**, Exam 2 will be given on **Thursday, October 31^st^**, and Exam 3 will be given during our class's schedule final exam period on **Tuesday, December 17^th^**. Please note that Exam 3 will be held at a slightly different time (from 8am to 9:50am, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20% of your final grade.
 
 ## Submission and Late Work
 
@@ -72,10 +68,6 @@ Since the final exam schedule is not yet available, please do not book travel ho
 From time to time I may offer extra credit to be applied to your final grade. I will only offer extra credit if it is open to the entire class (typically for something like attending a lecture or event on-campus). If I offer extra credit, I will generally require you to submit a short written summary of the activity within a week of the event to obtain the credit. Papers should be submitted via **[Google Classroom](https://classroom.google.com)**. When offered, extra credit opportunities cannot be made-up or substituted if you are unable to attend the event.
 
 ## Grading
-
-```{block, type = "rmdwarning"}
-Students enrolled in the honors section should see [Section 6](/honors-overview.html) for their assignment weighting and final point totals
-```
 
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
 

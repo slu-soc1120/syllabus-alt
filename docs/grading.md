@@ -3,17 +3,13 @@ This section provides general details on the different types of assignments for 
 
 ## Assignments
 
-<div class="rmdwarning">
-<p>Students enrolled in the honors section should see <a href="/honors-overview.html">Section 7</a> for additional assignment descriptions as well as their weighting and final point totals.</p>
-</div>
-
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below.
 
 ### Attendance and Participation
 
-<div class="rmdtip">
-<p>Attendance and participation are worth <strong>10%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Attendance and participation are worth \textbf{10\%} of your final grade
+\end{rmdtip}
 
 As discussed above, both attendance and participation are important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during class, and (c) class "entry" and "exit tickets".
 
@@ -25,27 +21,27 @@ Your participation grade will be split, with 25 points (5% of your final grade) 
 
 ### Sociological Experiences
 
-<div class="rmdtip">
-<p>Sociological experiences are worth <strong>10%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Sociological experiences are worth \textbf{10\%} of your final grade
+\end{rmdtip}
 
-Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Monday, September 30^th^** and "The Suitcase" will be due on **Wednesday, November 6^th^**. Each reflection paper is worth 5% of your final grade.
+Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Tuesday, October 1^st^** and "The Suitcase" will be due on **Thursday, November 7^th^**. Each reflection paper is worth 5% of your final grade.
 
 ### QHQ Papers
 
-<div class="rmdtip">
-<p>QHQ Papers are worth <strong>20%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+QHQ Papers are worth \textbf{20\%} of your final grade
+\end{rmdtip}
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Wednesday, October 9^th^**, QHQ Paper 2 will be due on **Wednesday, November 13^th^**, and QHQ Paper 3 will be due on **Monday, December 2^nd^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Thursday, October 10^th^**, QHQ Paper 2 will be due on **Thursday, November 14^th^**, and QHQ Paper 3 will be due on **Tuesday, December 3^rd^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
 
 ### Exams
 
-<div class="rmdtip">
-<p>Exams are worth <strong>60%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Exams are worth \textbf{60\%} of your final grade
+\end{rmdtip}
 
-Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Monday, September 23^rd^**, Exam 2 will be given on **Wednesday, October 30^th^**, and Exam 3 will be given during our class's schedule final exam period on **Monday, December 16^th^**. Please note that Exam 3 will be held at a slightly different time (from 2pm to 3:50pm, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20% of your final grade.
+Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Tuesday, September 24^th^**, Exam 2 will be given on **Thursday, October 31^st^**, and Exam 3 will be given during our class's schedule final exam period on **Tuesday, December 17^th^**. Please note that Exam 3 will be held at a slightly different time (from 8am to 9:50am, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20% of your final grade.
 
 ## Submission and Late Work
 
@@ -73,21 +69,23 @@ From time to time I may offer extra credit to be applied to your final grade. I 
 
 ## Grading
 
-<div class="rmdwarning">
-<p>Students enrolled in the honors section should see <a href="/honors-overview.html">Section 6</a> for their assignment weighting and final point totals</p>
-</div>
-
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
 
+\begin{table}[t]
 
-Table: (\#tab:unnamed-chunk-7)SOC 1120 Points Breakdown
-
-Assignment                 Points    Quantity   Total     Percent 
--------------------------  --------  ---------  --------  --------
-Participation              25 pts    x2         50 pts    10%     
-Sociological Experiences   25 pts    x2         50 pts    10%     
-QHQs                       50 pts    x2         100 pts   20%     
-Exams                      100 pts   x3         300 pts   60%     
+\caption{(\#tab:unnamed-chunk-5)SOC 1120 Points Breakdown}
+\centering
+\begin{tabular}{lllll}
+\toprule
+Assignment & Points & Quantity & Total & Percent\\
+\midrule
+Participation & 25 pts & x2 & 50 pts & 10\%\\
+Sociological Experiences & 25 pts & x2 & 50 pts & 10\%\\
+QHQs & 50 pts & x2 & 100 pts & 20\%\\
+Exams & 100 pts & x3 & 300 pts & 60\%\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
@@ -104,36 +102,34 @@ Since exams and scantrons are handed back in class, I will only consider possibl
 Final grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible (500). This will be multiplied by 100 and then converted to a letter grade using the
 following table:
 
+\begin{table}
+\caption{(\#tab:unnamed-chunk-6)Course Grading Scale}
 
-<table class="kable_wrapper">
-<caption>(\#tab:unnamed-chunk-8)Course Grading Scale</caption>
-<tbody>
-  <tr>
-   <td> 
-
-GPA   Letter   Percent       
-----  -------  --------------
-4.0   A        93.0% - 100%  
-3.7   A-       90.0% - 92.9% 
-3.3   B+       87.0% - 89.9% 
-3.0   B        83.0% - 86.9% 
-2.7   B-       80.0% - 82.9% 
-
- </td>
-   <td> 
-
-GPA   Letter   Percent       
-----  -------  --------------
-2.3   C+       77.0% - 79.9% 
-2.0   C        73.0% - 76.9% 
-1.7   C-       70.0% - 72.9% 
-1.0   D        63.0% - 69.9% 
-0.0   F        < 63.0%       
-
- </td>
-  </tr>
-</tbody>
-</table>
+\centering
+\begin{tabular}{lll}
+\toprule
+GPA & Letter & Percent\\
+\midrule
+4.0 & A & 93.0\% - 100\%\\
+3.7 & A- & 90.0\% - 92.9\%\\
+3.3 & B+ & 87.0\% - 89.9\%\\
+3.0 & B & 83.0\% - 86.9\%\\
+2.7 & B- & 80.0\% - 82.9\%\\
+\bottomrule
+\end{tabular}
+\centering
+\begin{tabular}{lll}
+\toprule
+GPA & Letter & Percent\\
+\midrule
+2.3 & C+ & 77.0\% - 79.9\%\\
+2.0 & C & 73.0\% - 76.9\%\\
+1.7 & C- & 70.0\% - 72.9\%\\
+1.0 & D & 63.0\% - 69.9\%\\
+0.0 & F & < 63.0\%\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ### Revisions and Incompletes
 

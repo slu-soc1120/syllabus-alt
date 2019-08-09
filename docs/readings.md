@@ -4,17 +4,23 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
+\begin{table}[t]
 
-Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
-
-Abbreviation   Citation                                                                                                                                             
--------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
-Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
-*Mamma*        Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
+\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
+\centering
+\begin{tabular}{ll}
+\toprule
+Abbreviation & Citation\\
+\midrule
+Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
+*Mamma* & Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Week 01 {-}
 
-### Lecture 01 - Monday, August 26^th^ {-}
+### Lecture 01 - Tuesday, August 27^th^ {-}
 
 #### Topics {-}
 
@@ -22,7 +28,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 02 - Wednesday, August 28^th^ {-}
+### Lecture 02 - Thursday, August 29^th^ {-}
 
 #### Topics {-}
 
@@ -44,7 +50,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 02 {-}
 
-### *No Class* - Monday, September 2^nd^ - Labor Day {-}
+### *No Class* - Tuesday, September 3^rd^ {-}
 
 #### Topics {-}
 
@@ -56,7 +62,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 03 - Wednesday, September 4^th^ {-}
+### Lecture 03 - Thursday, September 5^th^ {-}
 
 #### Topics {-}
 
@@ -74,7 +80,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 03 {-}
 
-### Lecture 04 - Monday, September 9^th^ {-}
+### Lecture 04 - Tuesday, September 10^th^ {-}
 
 #### Topics {-}
 
@@ -89,7 +95,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 05 - Wednesday, September 11^th^ {-}
+### Lecture 05 - Thursday, September 12^th^ {-}
 
 #### Topics {-}
 
@@ -108,7 +114,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 04 {-}
 
-### Lecture 06 - Monday, September 16^th^ {-}
+### Lecture 06 - Tuesday, September 17^th^ {-}
 
 #### Topics {-}
 
@@ -122,7 +128,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 07 - Wednesday, September 18^th^ {-}
+### Lecture 07 - Thursday, September 19^th^ {-}
 
 #### Topics {-}
 
@@ -136,7 +142,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 05 {-}
 
-### Exam 1  - Monday, September 23^rd^ {-}
+### Exam 1  - Tuesday, September 24^th^ {-}
 
 #### Topics {-}
 
@@ -144,7 +150,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 08 - Wednesday, September 25^th^ {-}
+### Lecture 08 - Thursday, September 26^th^ {-}
 
 #### Topics {-}
 
@@ -156,7 +162,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 06 {-}
 
-### Lecture 09 - Monday, September 30^th^ {-}
+### Lecture 09 - Tuesday, October 1^st^ {-}
 
 #### Topics {-}
 
@@ -173,7 +179,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 10 - Wednesday, October 2^nd^ {-}
+### Lecture 10 - Thursday, October 3^rd^ {-}
 
 #### Topics {-}
 
@@ -188,7 +194,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 07 {-}
 
-### Lecture 11 - Monday, October 7^th^ {-}
+### Lecture 11 - Tuesday, October 8^th^ {-}
 
 #### Topics {-}
 
@@ -204,7 +210,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### QHQ 1 - Wednesday, October 9^th^ {-}
+### QHQ 1 - Thursday, October 10^th^ {-}
 
 #### Topics {-}
 
@@ -221,7 +227,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
     
 ## Week 08 {-}
 
-### Lecture 12 - Monday, October 14^th^ {-}
+### Lecture 12 - Tuesday, October 15^th^ {-}
 
 #### Topics {-}
 
@@ -235,7 +241,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 13 - Wednesday, October 16^th^ {-}
+### Lecture 13 - Thursday, October 17^th^ {-}
 
 #### Topics {-}
 
@@ -251,7 +257,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 09 {-}
 
-### *No Class* - Monday, October 21^st^ - Fall Break {-}
+### *No Class* - Tuesday, October 22^nd^ - Fall Break {-}
 
 #### Topics {-}
 
@@ -264,7 +270,9 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
     * Part 2 - "Background", pp 6-9
     * Part 3 - "Ferguson Law Enforcement Efforts Are Focused on Generating Revenue", pp. 9-15
 
-### Lecture 14 - Wednesday, October 23^rd^ {-}
+---
+
+### Lecture 14 - Thursday, October 24^th^ {-}
 
 #### Topics {-}
 
@@ -280,7 +288,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 10 {-}
 
-### Lecture 15 - Monday, October 28^th^ {-}
+### Lecture 15 - Tuesday, October 29^th^ {-}
 
 #### Topics {-}
 
@@ -292,7 +300,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Exam 2 - Wednesday, October 30^th^ {-}
+### Exam 2 - Thursday, October 31^st^ {-}
 
 #### Topics {-}
 
@@ -300,7 +308,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 11 {-}
 
-### Lecture 16 - Monday, November 4^th^ {-}
+### Lecture 16 - Tuesday, November 5^th^ {-}
 
 #### Topics {-}
 
@@ -313,7 +321,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 17 - Wednesday, November 6^th^ {-}
+### Lecture 17 - Thursday, November 7^th^ {-}
 
 #### Topics {-}
 
@@ -329,7 +337,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 12 {-}
 
-### Lecture 18 - Monday, November 11^th^ {-}
+### Lecture 18 - Tuesday, November 12^th^ {-}
 
 #### Topics {-}
 
@@ -342,7 +350,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### QHQ 2 - Wednesday, November 13^th^ {-}
+### QHQ 2 - Thursday, November 14^th^ {-}
 
 #### Topics {-}
 
@@ -359,7 +367,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 13 {-}
 
-### Lecture 19 - Monday, November 18^th^ {-}
+### Lecture 19 - Tuesday, November 19^th^ {-}
 
 #### Topics {-}
 
@@ -372,7 +380,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
     
 ---
 
-### Lecture 20 - Wednesday, November 20^th^ {-}
+### Lecture 20 - Thursday, November 21^st^ {-}
 
 #### Topics {-}
 
@@ -390,7 +398,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 14 {-}
 
-### Lecture 21 - Monday, November 25^th^ {-}
+### Lecture 21 - Tuesday, November 26^th^ {-}
 
 #### Topics {-}
 
@@ -407,7 +415,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### *No Class* - Wednesday, November 27^th^ - Thanksgiving Break {-}
+### *No Class* - Thursday, November 28^th^ - Thanksgiving Break {-}
 
 #### Topics {-}
 
@@ -419,7 +427,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 15 {-}
 
-### QHQ 3 - Monday, December 2^nd^ {-}
+### QHQ 3 - Tuesday, December 3^rd^ {-}
 
 #### Topics {-}
 
@@ -436,7 +444,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 22 - Wednesday, December 4^th^ {-}
+### Lecture 22 - Thursday, December 5^th^ {-}
 
 #### Topics {-}
 
@@ -454,11 +462,14 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 17 {-}
 
-### Exam 3 - Monday, December 16^th^ {-}
+### Exam 3 - Tuesday, December 17^th^ {-}
 
-<div class="rmdwarning">
-<p>The time for Exam 3 is different than for the rest of the course - it will be held from 2:00pm until 3:50pm. The length will not be any different than the other exams, however, so most students should be finished prior to the official end time.</p>
-</div>
+\begin{rmdwarning}
+The time for Exam 3 is different than for the rest of the course - it
+will be held from 8:00am until 9:50am. The length will not be any
+different than the other exams, however, so most students should be
+finished prior to the official end time.
+\end{rmdwarning}
 
 #### Topics {-}
 

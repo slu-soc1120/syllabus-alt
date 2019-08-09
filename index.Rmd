@@ -1,5 +1,5 @@
 --- 
-title: "SOC 1120-05 and 05H: Introduction to Sociology - Diversity & Health"
+title: "SOC 1120-01: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: slu-soc1120/syllabus
+github-repo: slu-soc1120/syllabus-alt
 description: "This is the syllabus and reading list for Chris's section of SOC 1120."
 ---
 
@@ -15,9 +15,9 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Meetings {-}
 
-*When:* Mondays and Wednesdays, 2:10pm to 3:25pm
+*When:* Tuesdays and Thursdays, 9:30am to 10:45am
 
-*Where:* 260 McGannon Hall
+*Where:* 240 Cook Hall
 
 ### Course Website {-}
 
