@@ -40,7 +40,8 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-August 9, 2019 - Initial Spring 2019 release
+* August 9, 2019 - Initial Spring 2019 release
+* August 15, 2019 - Remove Sociological Experience assignment
 
 ## License {-}
 Copyright © 2016-2019 [Christopher G. Prener](https://chris-prener.github.io)

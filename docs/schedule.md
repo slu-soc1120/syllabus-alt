@@ -4,28 +4,37 @@
 
 The following is a high-level schedule that details the general topic covered by each lecture.
 
+\begin{table}[t]
 
-Table: (\#tab:unnamed-chunk-1)SOC 1120 Course Overview
-
-Week   Tuesday            Topic                                             
------  -----------------  --------------------------------------------------
-01     August 27^th^      Course Introduction; Inequality & Health          
-02     September 3^rd^    *Labor Day* / Theory & Health                     
-03     September 10^th^   Culture                                           
-04     September 17^th^   Socialization                                     
-05     September 24^th^   Exam 1 / Social Structure                         
-06     October 1^st^      Social Constructionism / Urban Sociology          
-07     October 8^th^      Urban Sociology / *Mama*, Part 1                  
-08     October 15^th^     Crime & Deviance                                  
-09     October 22^nd^     *Fall Break* / Class & Stratification             
-10     October 29^th^     Stratification & Health / Exam 2                  
-11     November 5^th^     Race & Ethnicity                                  
-12     November 12^th^    Gender & Sexuality / *Mama*, Part 2               
-13     November 19^th^    The Health Care Experience / Indigenous Americans 
-14     November 26^th^    Intersectionality & Health / *Thanksgiving*       
-15     December 3^rd^     *Mama*, Part 3 / Course Conclusion                
-16     December 10^th^    *No Class*                                        
-17     December 17^th^    Exam 3                                            
+\caption{(\#tab:unnamed-chunk-1)SOC 1120 Course Overview}
+\centering
+\begin{tabular}{lll}
+\toprule
+Week & Tuesday & Topic\\
+\midrule
+01 & August 27\textasciicircum{}th\textasciicircum{} & Course Introduction; Inequality \& Health\\
+02 & September 3\textasciicircum{}rd\textasciicircum{} & *Labor Day* / Theory \& Health\\
+03 & September 10\textasciicircum{}th\textasciicircum{} & Culture\\
+04 & September 17\textasciicircum{}th\textasciicircum{} & Socialization\\
+05 & September 24\textasciicircum{}th\textasciicircum{} & Exam 1 / Social Structure\\
+\addlinespace
+06 & October 1\textasciicircum{}st\textasciicircum{} & Social Constructionism / Urban Sociology\\
+07 & October 8\textasciicircum{}th\textasciicircum{} & Urban Sociology / *Mama*, Part 1\\
+08 & October 15\textasciicircum{}th\textasciicircum{} & Crime \& Deviance\\
+09 & October 22\textasciicircum{}nd\textasciicircum{} & *Fall Break* / Class \& Stratification\\
+10 & October 29\textasciicircum{}th\textasciicircum{} & Stratification \& Health / Exam 2\\
+\addlinespace
+11 & November 5\textasciicircum{}th\textasciicircum{} & Race \& Ethnicity\\
+12 & November 12\textasciicircum{}th\textasciicircum{} & Gender \& Sexuality / *Mama*, Part 2\\
+13 & November 19\textasciicircum{}th\textasciicircum{} & The Health Care Experience / Indigenous Americans\\
+14 & November 26\textasciicircum{}th\textasciicircum{} & Intersectionality \& Health / *Thanksgiving*\\
+15 & December 3\textasciicircum{}rd\textasciicircum{} & *Mama*, Part 3 / Course Conclusion\\
+\addlinespace
+16 & December 10\textasciicircum{}th\textasciicircum{} & *No Class*\\
+17 & December 17\textasciicircum{}th\textasciicircum{} & Exam 3\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ### Scheduling Notes
 
