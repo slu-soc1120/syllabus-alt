@@ -167,10 +167,6 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
-#### Assignments Due {-}
-
-* Sociological Experience - "The Bus" (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzkxNDUzNDVa/details" target="_blank">Google Classroom</a>)
-
 ---
 
 ### Lecture 10 - Thursday, October 3^rd^ {-}
@@ -324,10 +320,6 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 #### Readings {-}
 
 * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-
-#### Assignments Due {-}
-
-* Sociological Experience - "The Suitcase" (<a href="#" target="_blank">Google Classroom</a>)
 
 ## Week 12 {-}
 

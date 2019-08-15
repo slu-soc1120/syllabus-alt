@@ -19,21 +19,13 @@ Your participation grade will be split, with 25 points (5% of your final grade) 
 
 "Entry" and "exit" tickets will be collected via **[Google Classroom](https://classroom.google.com)**. These will only be graded for students who present in class on the day that they were collected. Students without access to a smartphone or laptop should submit their tickets as soon as possible after class on the days the tickets are collected. Beginning and end of the semester activities, like the 'Student Information Sheet' and the 'Speaking Up In Class Survey', are counted as "entry" tickets.
 
-### Sociological Experiences
-
-```{block, type = "rmdtip"}
-Sociological experiences are worth **10%** of your final grade
-```
-
-Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Tuesday, October 1^st^** and "The Suitcase" will be due on **Thursday, November 7^th^**. Each reflection paper is worth 5% of your final grade.
-
 ### QHQ Papers
 
 ```{block, type = "rmdtip"}
-QHQ Papers are worth **20%** of your final grade
+QHQ Papers are worth **30%** of your final grade
 ```
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Thursday, October 10^th^**, QHQ Paper 2 will be due on **Thursday, November 14^th^**, and QHQ Paper 3 will be due on **Tuesday, December 3^rd^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Thursday, October 10^th^**, QHQ Paper 2 will be due on **Thursday, November 14^th^**, and QHQ Paper 3 will be due on **Tuesday, December 3^rd^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 15% of your final grade.
 
 ### Exams
 
@@ -73,11 +65,11 @@ I use a point system for calculating grades. The following table gives the weigh
 
 ```{r, echo=FALSE}
 points <- data.frame(
-  Assignment = c("Participation", "Sociological Experiences", "QHQs", "Exams"),
-  Points = c("25 pts", "25 pts", "50 pts", "100 pts"),
-  Quantity = c("x2", "x2", "x2", "x3"),
-  Total = c("50 pts", "50 pts", "100 pts", "300 pts"),
-  Percent = c("10%", "10%", "20%", "60%"),
+  Assignment = c("Participation", "QHQs", "Exams"),
+  Points = c("25 pts", "75 pts", "100 pts"),
+  Quantity = c("x2", "x2", "x3"),
+  Total = c("50 pts", "150 pts", "300 pts"),
+  Percent = c("10%", "30%", "60%"),
   stringsAsFactors = FALSE
 )
 
@@ -97,10 +89,9 @@ Assignment grades will generally be given both as a comment in the Google Doc it
 
 Since exams and scantrons are handed back in class, I will only consider possible scantron scoring errors that I am made aware of at the end of class on the day that exams are returned. Please make sure to discuss any concerns you have about your scantron with me that day. As with other assignments, if there is a discrepancy between the grade noted on your exam and what is entered on Google Classroom, I will default to taking the higher of the two grades as the official grade.
 
-### Final Grades
+### Letter Grades
 
-Final grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible (500). This will be multiplied by 100 and then converted to a letter grade using the
-following table:
+letter grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible. This will be multiplied by 100 and then converted to a letter grade using the following table:
 
 ```{r, echo=FALSE}
 grades1 <- data.frame(
@@ -125,6 +116,8 @@ knitr::kable(
   caption = "Course Grading Scale", booktabs = TRUE
 )
 ```
+
+For this course, midterm grades will be calculated out of a total of 150 possible points (first half participation and the first exam), a "week 16" grade will be calculated out of 400 possible points (all grades except the third exam), and the final grade will be calculated out of 500 possible points. Extra credit will be factored into the "week 16" and final grades. All letter grades will be disseminated via Google Classroom, and midterm as well as final grades will also be made available through Blackboard.
 
 ### Revisions and Incompletes
 
