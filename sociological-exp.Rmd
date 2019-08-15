@@ -1,0 +1,31 @@
+### Sociological Experiences
+
+```{block, type = "rmdtip"}
+Sociological experiences are worth **10%** of your final grade
+```
+
+Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Tuesday, October 1^st^** and "The Suitcase" will be due on **Thursday, November 7^th^**. Each reflection paper is worth 5% of your final grade.
+
+## Grading
+
+I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
+
+```{r, echo=FALSE}
+points <- data.frame(
+  Assignment = c("Participation", "Sociological Experiences", "QHQs", "Exams"),
+  Points = c("25 pts", "25 pts", "50 pts", "100 pts"),
+  Quantity = c("x2", "x2", "x2", "x3"),
+  Total = c("50 pts", "50 pts", "100 pts", "300 pts"),
+  Percent = c("10%", "10%", "20%", "60%"),
+  stringsAsFactors = FALSE
+)
+
+knitr::kable(
+  points, booktabs = TRUE,
+  caption = "SOC 1120 Points Breakdown"
+)
+```
+
+All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
+
+Some of the provided rubrics on **[Google Classroom](https://classroom.google.com)** result in final points for assignments that include decimals. In the event of non-standard decimals (those other than .25, .5, or .75), I will round your grade up to the next standard decimal value (e.g. .25, .5, or .75).
