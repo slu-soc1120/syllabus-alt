@@ -4,14 +4,21 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
+\begin{table}[t]
 
-Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
+\centering
+\begin{tabular}{ll}
+\toprule
+Abbreviation & Citation\\
+\midrule
+Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
+*Mamma* & Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
-Abbreviation   Citation                                                                                                                                             
--------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
-Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
-*Mamma*        Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
-
+\newpage
 ## Week 01 {-}
 
 ### Lecture 01 - Tuesday, August 27^th^ {-}
@@ -42,6 +49,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/c/Mzc0ODgxNTg0NzNa/a/Mzc0ODgxNTg1ODVa/details" target="_blank">Google Classroom</a>)
 
+\newpage
 ## Week 02 {-}
 
 ### *No Class* - Tuesday, September 3^rd^ {-}
@@ -72,6 +80,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Entry Ticket - Reflecting on Labor Day's Roots (<a href="https://classroom.google.com/c/Mzc0ODgxNTg0NzNa/a/Mzc0ODg1NzE0OTJa/details" target="_blank">Google Classroom</a>)
 
+\newpage
 ## Week 03 {-}
 
 ### Lecture 04 - Tuesday, September 10^th^ {-}
@@ -106,6 +115,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 * Anderson, Chapter 3 - "Doing Sociological Research", pp. 72-74 
     * read "Research Ethics: Is Sociology Value Free?"
 
+\newpage
 ## Week 04 {-}
 
 ### Lecture 06 - Tuesday, September 17^th^ {-}
@@ -134,6 +144,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 * Anderson, Chapter 4 - "Socialization and the Life Course", pp. 80-101 
 * Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 05 {-}
 
 ### Exam 1  - Tuesday, September 24^th^ {-}
@@ -154,6 +165,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Andersen, Chapter 5 - "Social Structure and Social Interaction"
 
+\newpage
 ## Week 06 {-}
 
 ### Lecture 09 - Tuesday, October 1^st^ {-}
@@ -182,6 +194,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
     * Chapter 2 - "St. Louis: A city of promise, a history of segregation", pp. 14-25
     * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
 
+\newpage
 ## Week 07 {-}
 
 ### Lecture 11 - Tuesday, October 8^th^ {-}
@@ -214,7 +227,8 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * QHQ 1 (<a href="#" target="_blank">Google Classroom</a>)
     * see the <a href="#" target="_blank">QHQ Group assignments</a> assignments for which chapter you should write about
-    
+
+\newpage    
 ## Week 08 {-}
 
 ### Lecture 12 - Tuesday, October 15^th^ {-}
@@ -245,6 +259,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
     * read from "Types of Crime" onward
 * Bourgois, Phillipe. 2008. "The Mystery of Marijuana: Science and the U.S. War on Drugs." Substance Use and Misuse 43: 581-583. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 09 {-}
 
 ### *No Class* - Tuesday, October 22^nd^ - Fall Break {-}
@@ -276,6 +291,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Entry Ticket - Contextualizing Michael Brown (<a href="#" target="_blank">Google Classroom</a>)
 
+\newpage
 ## Week 10 {-}
 
 ### Lecture 15 - Tuesday, October 29^th^ {-}
@@ -296,6 +312,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * covers Lectures 8 through 15, all associated readings, and the Fall Break reading on Michael Brown
 
+\newpage
 ## Week 11 {-}
 
 ### Lecture 16 - Tuesday, November 5^th^ {-}
@@ -321,6 +338,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 12 {-}
 
 ### Lecture 18 - Tuesday, November 12^th^ {-}
@@ -351,6 +369,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 * QHQ 2 (<a href="#" target="_blank">Google Classroom</a>)
     * see the <a href="#" target="_blank">QHQ Group assignments</a> for which chapter you should write about
 
+\newpage
 ## Week 13 {-}
 
 ### Lecture 19 - Tuesday, November 19^th^ {-}
@@ -382,6 +401,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 * Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 14 {-}
 
 ### Lecture 21 - Tuesday, November 26^th^ {-}
@@ -411,6 +431,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Siskand, Janet. 1992. "The Invention of Thanksgiving: A ritual of American nationality." *Critique of Anthropology* 12(2): 167-191. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 15 {-}
 
 ### QHQ 3 - Tuesday, December 3^rd^ {-}
@@ -442,17 +463,22 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 16 {-}
 
 ### *No Class* - Finals Week {-}
 
+\newpage
 ## Week 17 {-}
 
 ### Exam 3 - Tuesday, December 17^th^ {-}
 
-<div class="rmdwarning">
-<p>The time for Exam 3 is different than for the rest of the course - it will be held from 8:00am until 9:50am. The length will not be any different than the other exams, however, so most students should be finished prior to the official end time.</p>
-</div>
+\begin{rmdwarning}
+The time for Exam 3 is different than for the rest of the course - it
+will be held from 8:00am until 9:50am. The length will not be any
+different than the other exams, however, so most students should be
+finished prior to the official end time.
+\end{rmdwarning}
 
 #### Topics {-}
 
