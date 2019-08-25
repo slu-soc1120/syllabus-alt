@@ -6,10 +6,10 @@ These tips are an effort to illuminate what sociologists refer to as the "[hidde
 
 Since I give this advice out in multiple classes, the documents themselves are stored on my [personal website](https://chris-prener.github.io):
 
-1. [Doing the Little Things Right](https://chris-prener.github.io/resources/little-things/)
-2. [Come to Office Hours!](https://chris-prener.github.io/resources/office-hours/)
+1. [Doing the Little Things Right](https://chris-prener.github.io/resources/students/little-things/)^[Part of this document involves tips for emailing faculty and links to an article with some additional tips. If you send me an email prior to the second lecture that breaks as many rules as possible (but clearly identifies in some way who you are), I'll give you extra credit.]
+2. [Come to Office Hours!](https://chris-prener.github.io/resources/students/office-hours/)
 3. [Studying for Exams](https://chris-prener.github.io/resources/exams/)
-4. [Writing in the Social Sciences](https://chris-prener.github.io/resources/writing/)
-5. [Letters of Recommendation](https://chris-prener.github.io/resources/letters/) - Pay particular to the section titled "[If I Say No](https://chris-prener.github.io/resources/letters/#if-i-say-no)" if you may want an Instructor Evaluation for medical school - I prioritize letter writing for students who I get to know outside of the classroom.
+4. [Writing in the Social Sciences](https://chris-prener.github.io/resources/students/writing/)
+5. [Letters of Recommendation](https://chris-prener.github.io/resources/students/exams/) - Pay particular to the section titled "[If I Say No](https://chris-prener.github.io/resources/students/letters/#if-i-say-no)" if you may want an Instructor Evaluation for medical school - I prioritize letter writing for students who I get to know outside of the classroom.
 
 If there are other topics you have questions about, please let me know. These documents are a work in progress.

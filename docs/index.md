@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-01: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2019-08-19"
+date: "2019-08-25"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -45,6 +45,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 * August 16, 2019 - Update langauge on [academic accomodations](/syllabus-alt/student-support.html), [academic honesty](/syllabus-alt/academic-honesty.html), and [Title IX](/syllabus-alt/harassment-and-title-ix.html) to match latest versions of University syllabi statements
 * August 17, 2019 - Fix broken links
 * August 19, 2019 - Add link to office hours note in success section
+* August 25, 2019 - Update student success links
 
 ## License {-}
 Copyright © 2016-2019 [Christopher G. Prener](https://chris-prener.github.io)
