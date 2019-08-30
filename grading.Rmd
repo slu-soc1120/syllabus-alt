@@ -121,4 +121,4 @@ For this course, midterm grades will be calculated out of a total of 150 possibl
 
 ### Revisions and Incompletes
 
-No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the possible points (330 points). You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F".
+No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the possible points (330 points). You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F". This policy reflects the [University's policy on incomplete coursework](https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/).
