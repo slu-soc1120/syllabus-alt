@@ -4,19 +4,13 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
-\begin{table}[t]
 
-\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
-\centering
-\begin{tabular}{ll}
-\toprule
-Abbreviation & Citation\\
-\midrule
-Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
-*Mamma* & Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+
+Abbreviation   Citation                                                                                                                                             
+-------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
+Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
+*Mamma*        Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
 
 \newpage
 ## Week 01 {-}
@@ -473,12 +467,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Exam 3 - Tuesday, December 17^th^ {-}
 
-\begin{rmdwarning}
-The time for Exam 3 is different than for the rest of the course - it
-will be held from 8:00am until 9:50am. The length will not be any
-different than the other exams, however, so most students should be
-finished prior to the official end time.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The time for Exam 3 is different than for the rest of the course - it will be held from 8:00am until 9:50am. The length will not be any different than the other exams, however, so most students should be finished prior to the official end time.</p>
+</div>
 
 #### Topics {-}
 
