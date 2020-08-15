@@ -12,17 +12,12 @@ This course will survey the field of sociology, stressing important ideas, metho
 
 ## Course Objectives
 
-This course introduces the distinct sociological skills through the lens of health and illness, including:
+By the *end* of the semester, you should be able to:
 
-1.  The ability to recognize and examine social phenomena from multiple perspectives.
-
-2.  The recognition of what constitutes fact based arguments from appropriately designed information gathering.
-
-3.  The ability to understand the sources of attitudes and behaviors from cultures and structures and how they impact the quality of life of different groups in society.
-
-4.  The ability to reflect on the diversity around us and to act in a moral and just manner as citizens of the world.
-
-5.  Developing skills in independent thinking, aesthetic awareness, moral and/or ethical system of values, welcoming diversity, and committing to the value of life-long learning.
+  1. Describe the major theoretical traditions within sociology and the way that we use social theory, and apply these theories to current events.
+  2. Identify sociological contributions to a number of substantive areas, including urban sociology, crime and deviance, race, class, and gender.
+  3. Apply core sociological concepts by analyzing data and your own experiences to understand how they reflect fundamental social issues.
+  4. Integrate core sociological concepts into analyses of population health and health disparities using both fundamental cause theory and the social determinants of health perspective as well as other sociological concepts and data.
 
 ## Cultural Diversity Core Requirement
 
@@ -38,22 +33,25 @@ This course fulfills the College of Arts and Sciences core requirement for Cultu
 
 5.  Understand how questions of diversity intersect with moral and political questions of justice and equality.
 
-## Google Classroom
+## Blackboard
 
-**[Google Classroom](https://classroom.google.com)** is a learning management system similar to Blackboard. There are two main areas - the `Stream` and the `Coursework` tabs. The `Stream` contains posts for announcements and assignments. Additions to the `Stream` should be emailed to your student e-mail account automatically. This will be my primary means for communicating with the class as a whole, and will be the venue where lecture slides and notes are made available. Assignments posted to the `Coursework` allow you to submit work for the course. Please see the section on "[Google Classroom Submissions]" for details on assignment submission.
-
-You will need an invitation to **Google Classroom** from Chris. Invitations will be sent to all enrolled students before the first class. If you enroll after the first day of class, please let Chris know that you will need an invitation. Invitations will be sent to your SLU associated Google account, which consists of your *computer log in* (e.g. `doej` for Jane Doe) entered as an email - `doej@slu.edu`. The password will be the same as your password used to log in to mySLU and SLU computers. Using another Google account for this course is not permitted.
+**<a href = "https://blackboard.slu.edu" target = "_blank">Blackboard</a>** is a learning management system similar to Google Classroom and Canvas. There are two main areas - the `Annoucements` page and the various "modules" that contain course content. The `Annoucements` contains posts for announcements and assignments. Additions to the `Annoucements` should be emailed to your student e-mail account automatically. This will be my primary means for communicating with the class as a whole. Assignments posted to the various modules will allow you to submit work for the course.
 
 ## Readings
 
 There are two books required for this course. Each book has been selected to correspond with one or more of the course objectives. The books are:
 
 1.  Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. ISBN-13: 978-0226623702; List Price: $20.00; e-book versions available.
+    * I do not require students to buy physical copies of *Mama Might Be Better Off Dead.* You are free to select a means for accessing *Mama* that meets your budget and learning style.
 
-2.  Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage. ISBN-13: 978-1305503083; List Price: $202.95; e-book versions available.
+2. Khan, Shamus, Patrick Sharkey, and Gwen Sharp, eds. *<a href = "https://www.sociologyexperiment.com" target = "_blank">A Sociology Experiment*</a>; e-book only.
+    * This is a unique "textbook" where you purchase it by chapter instead of buying the entire book. Each chapter is written by one or more leading sociologists in the fields that the chapter covers. Each chapter costs $1. If you have a concern about accessing this non-traditional resource, please let me know as soon as possible.
+    * Once you purchase a chapter, you will be able to download a `.pdf` copy of the text to keep.
+    * You will need to purchase the following Chapters:
+      * All of Part 1- "A Sociology Experiment," "Research Methods," and "Social Structure and the Individual"
+      * All of Part 2 - "Social Class, Inequality, and Poverty," "Culture," "Gender and Sexuality," and "Race and Ethnicity"
+      * From Part 3 - "Urban Sociology" and "Health and Illness"
 
-I do not require students to buy physical copies of texts. You are free to select a means for accessing these texts that meets your budget and learning style. If ebook editions (e.g. Kindle, iBooks, pdf, etc) of texts are available, they are acceptable for this course. All texts should be obtained in the edition noted above.
+All readings are listed on the [**Reading List**](/syllabus/lecture-schedule.html) and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted). 
 
-All readings are listed on the [**Reading List**](/syllabus-alt/lecture-schedule.html) and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted). Full text versions of most readings not found in the books assigned for the course can be obtained using the library's [Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443) system. The password for the Electric Reserves will be posted on **[Google Classroom](https://classroom.google.com)**.
-
-Many of the readings posted on [Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443) are peer reviewed journal articles. This means that they are written with an aim to contribute to scientific debates. Their primary audiences are typically health care providers, professors, and graduate students. They are therefore sometimes *difficult* to read. Give yourself time - I don't expect each student to fully understanding the intricacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.
+Many of the readings on the syllabus are peer reviewed journal articles that you'll be able to access through the library. Being "peer reviewed" means that they are written with an aim to contribute to scientific debates. Their primary audiences are typically health care providers, professors, and graduate students. They are therefore sometimes *difficult* to read. Give yourself time - I don't expect each student to fully understanding the intricacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.

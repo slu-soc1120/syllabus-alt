@@ -2,36 +2,38 @@
 
 # Course Schedule
 
-The following is a high-level schedule that details the general topic covered by each lecture.
+The following is a high-level schedule that details the general topic covered by each module. Modules are collections of two or more lectures and class discussions under the broad headings provided below.
 
 ```{r, echo=FALSE}
-schedule <- data.frame(
-  Week = c("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
-           "12", "13", "14", "15", "16", "17"),
-  Tuesday = c("August 27^th^", "September 3^rd^", "September 10^th^", 
-             "September 17^th^", "September 24^th^", "October 1^st^", 
-             "October 8^th^", "October 15^th^", "October 22^nd^", 
-             "October 29^th^", "November 5^th^", "November 12^th^", 
-             "November 19^th^", "November 26^th^", "December 3^rd^", 
-             "December 10^th^", "December 17^th^"),
-  Topic = c("Course Introduction; Inequality & Health", 
-            "*Labor Day* / Theory & Health", 
-            "Culture", 
-            "Socialization", 
-            "Exam 1 / Social Structure", 
-            "Social Constructionism / Urban Sociology", 
-            "Urban Sociology / *Mama*, Part 1", 
-            "Crime & Deviance", 
-            "*Fall Break* / Class & Stratification", 
-            "Stratification & Health / Exam 2", 
-            "Race & Ethnicity", 
-            "Gender & Sexuality / *Mama*, Part 2", 
-            "The Health Care Experience / Indigenous Americans", 
-            "Intersectionality & Health / *Thanksgiving*", 
-            "*Mama*, Part 3 / Course Conclusion", 
-            "*No Class*",
-            "Exam 3"),
-  stringsAsFactors = FALSE
+schedule <- dplyr::tibble(
+  Part = c("**1**", "1", "1", "**2**", "2", "2", "2", "**3**", "3", "3", "3", "**4**", "4"),
+  Module = c("", "1", "2", "", "3", "4", "5", "", "6", "7", "8", "", "9"),
+  `Planned Start Date` = c("", 
+                           "August 18^th^", 
+                           "September 1^st^",
+                           "",
+                           "September 15^th^",
+                           "September 22^nd^",
+                           "October 6^th^",
+                           "",
+                           "October 13^th^",
+                           "November 3^rd^",
+                           "November 10^th^",
+                           "",
+                           "November 17^th^"),
+  Title = c("**Thinking Like Sociologists**",
+            "Engaging the Social World",
+            "Structuring the Social World",
+            "**The Building Blocks of Society**",
+            "Culture",
+            "Socioeconomic Status",
+            "Gender and Sexuality",
+            "**The Broken Heart of America**",
+            "Race and Racism",
+            "Intersectionality",
+            "Urban Sociology",
+            "**Course Conclusion**",
+            "Course Conclusion")
 )
 
 knitr::kable(
@@ -40,6 +42,70 @@ knitr::kable(
 )
 ```
 
+### Assignment Due Dates
+
+All assignments are due by the beginning of class unless otherwise noted, and all times are in Central time.
+
+```{r, echo=FALSE}
+schedule <- dplyr::tibble(
+  Date = c("**August**",
+           "Thursday, August 20^th^",
+           "Sunday, August 30^th^",
+           "**September**",
+           "Tuesday, September 1^st^",
+           "Thursday, September 10^th^",
+           "Monday, September 14^th^",
+           "Sunday, September 20^th^",
+           "Tuesday, September 22^nd^",
+           "Tuesday, September 29^th^",
+           "**October**",
+           "Thursday, October 1^st^",
+           "Monday, October 12^th^",
+           "Thursday, October 29^th^",
+           "**November**",
+           "Sunday, November 1^st^",
+           "Tuesday, November 3^rd^",
+           "Tuesday, November 3^rd^",
+           "Thursday, November 12^th^",
+           "Tuesday, November 17^th^",
+           "Sunday, November 22^nd^",
+           "Monday, November 23^rd^",
+           "Tuesday, November 24^th^",
+           "Monday, November 30^th^"
+           ),
+  Time = c("", "", "5pm", "", "", "", "", "5pm", "", "", "", "", "", "", "", "5pm", "", "", "", "", "5pm", "", "", ""),
+  Assignment = c("",
+                 "Student Information Sheet", 
+                 "Theory Isn't Dead Post 1", 
+                 "",
+                 "Theory Isn't Dead Follow-up 1", 
+                 "Sociological Experience 1",
+                 "Quiz 1",
+                 "Theory Isn't Dead Post 2", 
+                 "Theory Isn't Dead Follow-up 2", 
+                 "Sociological Experience 2",
+                 "",
+                 "QHQ Paper 1",
+                 "Quiz 2",
+                 "Sociological Experience 3",
+                 "",
+                 "Theory Isn't Dead Post 3", 
+                 "Theory Isn't Dead Follow-up 3", 
+                 "QHQ Paper 2",
+                 "Sociological Experience 4",
+                 "QHQ Paper 3",
+                 "Theory Isn't Dead Post 4", 
+                 "Quiz 3",
+                 "Theory Isn't Dead Follow-up 4",
+                 "Final Project")
+)
+
+knitr::kable(
+  schedule, booktabs = TRUE,
+  caption = "SOC 1120 Assignment Timeline"
+)
+```
+
 ### Scheduling Notes
 
-The lecture schedule may change as it depends on the progress of the class. In the event of a cancellation due to weather or another disruption, I may alter the lecture schedule. The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
+The course schedule may change as it depends on the progress of the class and the [challenges we are confronted by this semester](covid-19.html). The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
