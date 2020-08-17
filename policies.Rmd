@@ -55,6 +55,15 @@ I may ask for more information, such as a note from a health care provider, a tr
 
 Please see the <a href = "https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/" target = "_blank">University's attendance policy</a> for additional details.
 
+### Attendace Collection
+In order to help identify students who might need extra support, I do keep track of who attends class. Attendance check-ins will be collected through a simple web-form. Students will need a <a href = "https://en.wikipedia.org/wiki/QR_code" target = "_blank">QR code</a> reader application installed on their smartphone to check-in if their phone does not support it automatically. The <a href ="https://slu-soc1120.github.io/docs/start_other/#attendance" target = "_blank">Course Docs</a> contain some additional details and links for learning more about how this works. 
+
+This QR code will be available on-screen until I begin class. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the "front matter" and "back matter" sections of the lecture slides.
+
+These web forms are **time stamped**, so if you sign the form 3 minutes after the beginning of class or later, you will be marked as 'late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
+
+If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
+
 ### Zoom Policies
 Since we are meeting virtually via Zoom, there are several additional policies to note:
 
@@ -78,12 +87,6 @@ The following COVID-19 specific policies apply to this course. In general, if yo
    5. As a temporary amendment to the current <a href = "https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/" target = "_blank">University Attendance Policy</a>, all absences due to illness or an isolation/quarantine directive issued by a qualified health official shall be considered “Authorized” absences (effective August 2020 through May 2021). 
 
 ### Missed Classes
-Attendance check-ins will be collected either in-person or through a simple web-form. Students will need a <a href = "https://en.wikipedia.org/wiki/QR_code" target = "_blank">QR code</a> reader application installed on their smartphone to check-in if their phone does not support it automatically. The <a href ="https://slu-soc1120.github.io/docs/start_other/#attendance" target = "_blank">Course Docs</a> contain some additional details and links for learning more about how this works. 
-
-These web forms are **time stamped**, so if you sign in 3 minutes after the beginning of class or later, you will be marked as 'late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
-
-If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
-
 My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
 
 Specific elements of the course, such as participation in group discussions during lectures as well as the QHQ discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.

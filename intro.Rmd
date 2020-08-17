@@ -44,13 +44,17 @@ There are two books required for this course. Each book has been selected to cor
 1.  Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. ISBN-13: 978-0226623702; List Price: $20.00; e-book versions available.
     * I do not require students to buy physical copies of *Mama Might Be Better Off Dead.* You are free to select a means for accessing *Mama* that meets your budget and learning style.
 
-2. Khan, Shamus, Patrick Sharkey, and Gwen Sharp, eds. *<a href = "https://www.sociologyexperiment.com" target = "_blank">A Sociology Experiment*</a>; e-book only.
+2. Khan, Shamus, Patrick Sharkey, and Gwen Sharp, eds. *<a href = "https://www.sociologyexperiment.com" target = "_blank">A Sociology Experiment</a>*; e-book only.
     * This is a unique "textbook" where you purchase it by chapter instead of buying the entire book. Each chapter is written by one or more leading sociologists in the fields that the chapter covers. Each chapter costs $1. If you have a concern about accessing this non-traditional resource, please let me know as soon as possible.
     * Once you purchase a chapter, you will be able to download a `.pdf` copy of the text to keep.
     * You will need to purchase the following Chapters:
-      * All of Part 1- "A Sociology Experiment," "Research Methods," and "Social Structure and the Individual"
-      * All of Part 2 - "Social Class, Inequality, and Poverty," "Culture," "Gender and Sexuality," and "Race and Ethnicity"
-      * From Part 3 - "Urban Sociology" and "Health and Illness"
+      * All of Part 1- "1 - A Sociology Experiment," "2 - Research Methods," and "3- Social Structure and the Individual"
+      * All of Part 2 - "4 - Social Class, Inequality, and Poverty," "5 - Culture," "6 - Gender and Sexuality," and "7 - Race and Ethnicity"
+      * From Part 3 - "12 - Urban Sociology" and "15 - Health and Illness"
+
+```{block, type = "rmdwarning"}
+Only *Mama Might Be Better Off Dead* is available through the bookstore! Use <a href = "https://www.sociologyexperiment.com" target = "_blank">this link</a> or the link below to access *<a href = "https://www.sociologyexperiment.com" target = "_blank">A Sociology Experiment</a>*! All chapters can be purchased through the text's website.
+```
 
 All readings are listed on the [**Reading List**](/syllabus/lecture-schedule.html) and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted). 
 

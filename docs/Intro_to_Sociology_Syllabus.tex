@@ -50,7 +50,7 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-\usepackage{graphicx}
+\usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -147,15 +147,12 @@
 \usepackage{fancyhdr}
 \renewcommand{\chaptername}{Section}
 \renewcommand\thesection{\Alph{section}}
-\ifluatex
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
 \title{SOC 1120-01: Introduction to Sociology - Diversity \& Health}
 \author{Christopher Prener, Ph.D.}
-\date{2020-08-14}
+\date{2020-08-17}
 
 \begin{document}
 \maketitle
@@ -224,6 +221,8 @@ If you would like to keep a record of the syllabus, there is a \texttt{.pdf} dow
   August 13\textsuperscript{th}, 2019 - Add Fall 2020 draft
 \item
   August 14\textsuperscript{th}, 2019 - Publish initial Fall 2020 draft
+\item
+  August 17\textsuperscript{th}, 2019 - Clarify accessing \emph{A Sociology Experiment} and how attendance collection works
 \end{itemize}
 
 \hypertarget{license}{%
@@ -321,14 +320,20 @@ There are two books required for this course. Each book has been selected to cor
     \begin{itemize}
     \tightlist
     \item
-      All of Part 1- ``A Sociology Experiment,'' ``Research Methods,'' and ``Social Structure and the Individual''
+      All of Part 1- ``1 - A Sociology Experiment,'' ``2 - Research Methods,'' and ``3- Social Structure and the Individual''
     \item
-      All of Part 2 - ``Social Class, Inequality, and Poverty,'' ``Culture,'' ``Gender and Sexuality,'' and ``Race and Ethnicity''
+      All of Part 2 - ``4 - Social Class, Inequality, and Poverty,'' ``5 - Culture,'' ``6 - Gender and Sexuality,'' and ``7 - Race and Ethnicity''
     \item
-      From Part 3 - ``Urban Sociology'' and ``Health and Illness''
+      From Part 3 - ``12 - Urban Sociology'' and ``15 - Health and Illness''
     \end{itemize}
   \end{itemize}
 \end{enumerate}
+
+\begin{rmdwarning}
+Only \emph{Mama Might Be Better Off Dead} is available through the
+bookstore! Use this link or the link below to access \emph{A Sociology
+Experiment}! All chapters can be purchased through the text's website.
+\end{rmdwarning}
 
 All readings are listed on the \href{/syllabus/lecture-schedule.html}{\textbf{Reading List}} and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted).
 
@@ -417,6 +422,17 @@ I may ask for more information, such as a note from a health care provider, a tr
 
 Please see the University's attendance policy for additional details.
 
+\hypertarget{attendace-collection}{%
+\subsection{Attendace Collection}\label{attendace-collection}}
+
+In order to help identify students who might need extra support, I do keep track of who attends class. Attendance check-ins will be collected through a simple web-form. Students will need a QR code reader application installed on their smartphone to check-in if their phone does not support it automatically. The Course Docs contain some additional details and links for learning more about how this works.
+
+This QR code will be available on-screen until I begin class. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the ``front matter'' and ``back matter'' sections of the lecture slides.
+
+These web forms are \textbf{time stamped}, so if you sign the form 3 minutes after the beginning of class or later, you will be marked as `late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
+
+If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
+
 \hypertarget{zoom-policies}{%
 \subsection{Zoom Policies}\label{zoom-policies}}
 
@@ -467,12 +483,6 @@ The following COVID-19 specific policies apply to this course. In general, if yo
 
 \hypertarget{missed-classes}{%
 \subsection{Missed Classes}\label{missed-classes}}
-
-Attendance check-ins will be collected either in-person or through a simple web-form. Students will need a QR code reader application installed on their smartphone to check-in if their phone does not support it automatically. The Course Docs contain some additional details and links for learning more about how this works.
-
-These web forms are \textbf{time stamped}, so if you sign in 3 minutes after the beginning of class or later, you will be marked as `late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
-
-If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
 
 My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
 

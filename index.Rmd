@@ -46,6 +46,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 * August 13^th^, 2019 - Add Fall 2020 draft
 * August 14^th^, 2019 - Publish initial Fall 2020 draft
+* August 17^th^, 2019 - Clarify accessing *A Sociology Experiment* and how attendance collection works
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
