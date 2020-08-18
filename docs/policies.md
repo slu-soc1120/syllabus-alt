@@ -58,7 +58,7 @@ Please see the <a href = "https://catalog.slu.edu/academic-policies/academic-pol
 ### Attendace Collection
 In order to help identify students who might need extra support, I do keep track of who attends class. Attendance check-ins will be collected through a simple web-form. Students will need a <a href = "https://en.wikipedia.org/wiki/QR_code" target = "_blank">QR code</a> reader application installed on their smartphone to check-in if their phone does not support it automatically. The <a href ="https://slu-soc1120.github.io/docs/start_other/#attendance" target = "_blank">Course Docs</a> contain some additional details and links for learning more about how this works. 
 
-This QR code will be available on-screen until I begin class. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the "front matter" and "back matter" sections of the lecture slides.
+This QR code will be available on-screen until I begin class. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the "front matter" and "back matter" sections of the lecture slides. Attendance submissions must be received by the end of the class period.
 
 These web forms are **time stamped**, so if you sign the form 3 minutes after the beginning of class or later, you will be marked as 'late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
 

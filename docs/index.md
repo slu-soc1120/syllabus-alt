@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-01: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2020-08-17"
+date: "2020-08-18"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -49,6 +49,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 * August 13^th^, 2019 - Add Fall 2020 draft
 * August 14^th^, 2019 - Publish initial Fall 2020 draft
 * August 17^th^, 2019 - Clarify accessing *A Sociology Experiment* and how attendance collection works
+* August 18^th^, 2019 - Clarify attendance further
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
