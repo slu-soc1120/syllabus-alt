@@ -158,16 +158,15 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 1-23 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Reading TBD
     * Read Cooper et al. (2003)
-      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="#" target="_blank">Link</a>)
+      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="https://www-nejm-org.ezp.slu.edu/doi/full/10.1056/NEJMsb022863" target="_blank">Link</a>)
   
 ---
 
 ### Meeting 18 - Thursday, October 15^th^ - Race and Racism 2 {-}
 
-  * **Before Class:**
-    * Reading TBD
+  * **After Class:**
+    * Mid-Semester Exit Ticket
 
   
 ---
@@ -184,7 +183,6 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 23-28 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Reading TBD
   * **After Class:**
     * Complete Sociological Experience 3
     

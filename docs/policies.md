@@ -109,13 +109,9 @@ There is evidence that using electronic devices during lectures results in decre
 
 I therefore ask students to be conscious of how they are using their devices, the ways such use impacts their own learning, and the effect that it may have on others around them. I reserve the right to alter this policy if electronic device use becomes problematic during the semester.
 
-\begin{rmdnote}
-I \emph{strongly} encourage you to take notes for this course either on
-a second device or by hand so that you can make the Zoom window as large
-as possible. Please let me know by clicking ``slow down'' in Zoom's
-attendee controls or let me know via the chat if you need something
-repeated or clarified.
-\end{rmdnote}
+<div class="rmdnote">
+<p>I <em>strongly</em> encourage you to take notes for this course either on a second device or by hand so that you can make the Zoom window as large as possible. Please let me know by clicking “slow down” in Zoom’s <a href = "https://support.zoom.us/hc/en-us/articles/200941109-Attendee-controls-in-a-meeting" target = "_blank">attendee controls</a> or let me know via the chat if you need something repeated or clarified.</p>
+</div>
 
 ## Student Support
 
@@ -139,19 +135,17 @@ Please note that I will not provide accommodations to students who are not worki
 
 I also encourage you to take advantage of the [University Writing Services (UWS) program](https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php). Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources. 
 
-\begin{rmdnote}
-Due to COVID-19, all writing services appointments are occurring either
-over Zoom or asynchronously. Appointments can be made through EAB
-Navigate.
-\end{rmdnote}
+<div class="rmdnote">
+<p>Due to COVID-19, all writing services appointments are occurring either over Zoom or asynchronously. Appointments can be made through EAB Navigate.</p>
+</div>
 
 ### Student Success Coaching
 
 <a href = "https://www.slu.edu/life-at-slu/student-success-center/student-success-coaching.php" target = "_blank">Academic coaches</a> are staff members who can assist with study skills, time management, test and note taking, goal setting, and motivations. They can also help deal with navigating homesickness, making connections on campus, and being successful in online/remote coursework. Coaches will work with you on a weekly basis to develop the skills that are most important to you. For more information, please contact <a href = "emily.m.tuttle@slu.edu" target = "_blank">Emily Tuttle</a>. 
 
-\begin{rmdnote}
-Due to COVID-19, appointments will be held over Zoom.
-\end{rmdnote}
+<div class="rmdnote">
+<p>Due to COVID-19, appointments will be held over Zoom.</p>
+</div>
 
 ## Academic Honesty
 

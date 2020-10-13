@@ -16,9 +16,6 @@ Since I give this advice out in multiple classes, the documents themselves are s
 
 If there are other topics you have questions about, please let me know. These documents are a work in progress.
 
-\begin{rmdnote}
-Part of these documents involve tips for emailing faculty and link to an
-article with some additional tips. If you send me an email prior to the
-second lecture that breaks as many rules as possible (but clearly
-identifies in some way who you are), I'll give you extra credit.
-\end{rmdnote}
+<div class="rmdnote">
+<p>Part of these documents involve tips for emailing faculty and link to an article with some additional tips. If you send me an email prior to the second lecture that breaks as many rules as possible (but clearly identifies in some way who you are), I’ll give you extra credit.</p>
+</div>

@@ -52,11 +52,9 @@ There are two books required for this course. Each book has been selected to cor
       * All of Part 2 - "4 - Social Class, Inequality, and Poverty," "5 - Culture," "6 - Gender and Sexuality," and "7 - Race and Ethnicity"
       * From Part 3 - "12 - Urban Sociology" and "15 - Health and Illness"
 
-\begin{rmdwarning}
-Only \emph{Mama Might Be Better Off Dead} is available through the
-bookstore! Use this link or the link below to access \emph{A Sociology
-Experiment}! All chapters can be purchased through the text's website.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>Only <em>Mama Might Be Better Off Dead</em> is available through the bookstore! Use <a href = "https://www.sociologyexperiment.com" target = "_blank">this link</a> or the link below to access <em><a href = "https://www.sociologyexperiment.com" target = "_blank">A Sociology Experiment</a></em>! All chapters can be purchased through the text’s website.</p>
+</div>
 
 All readings are listed on the [**Reading List**](/syllabus/lecture-schedule.html) and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted). 
 

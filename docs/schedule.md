@@ -4,76 +4,58 @@
 
 The following is a high-level schedule that details the general topic covered by each module. Modules are collections of two or more lectures and class discussions under the broad headings provided below.
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-1)SOC 1120 Course Overview}
-\centering
-\begin{tabular}[t]{llll}
-\toprule
-Part & Module & Planned Start Date & Title\\
-\midrule
-**1** &  &  & **Thinking Like Sociologists**\\
-1 & 1 & August 18\textasciicircum{}th\textasciicircum{} & Engaging the Social World\\
-1 & 2 & September 1\textasciicircum{}st\textasciicircum{} & Structuring the Social World\\
-**2** &  &  & **The Building Blocks of Society**\\
-2 & 3 & September 15\textasciicircum{}th\textasciicircum{} & Culture\\
-\addlinespace
-2 & 4 & September 22\textasciicircum{}nd\textasciicircum{} & Socioeconomic Status\\
-2 & 5 & October 6\textasciicircum{}th\textasciicircum{} & Gender and Sexuality\\
-**3** &  &  & **The Broken Heart of America**\\
-3 & 6 & October 13\textasciicircum{}th\textasciicircum{} & Race and Racism\\
-3 & 7 & November 3\textasciicircum{}rd\textasciicircum{} & Intersectionality\\
-\addlinespace
-3 & 8 & November 10\textasciicircum{}th\textasciicircum{} & Urban Sociology\\
-**4** &  &  & **Course Conclusion**\\
-4 & 9 & November 17\textasciicircum{}th\textasciicircum{} & Course Conclusion\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-1)SOC 1120 Course Overview
+
+|Part  |Module |Planned Start Date |Title                              |
+|:-----|:------|:------------------|:----------------------------------|
+|**1** |       |                   |**Thinking Like Sociologists**     |
+|1     |1      |August 18^th^      |Engaging the Social World          |
+|1     |2      |September 1^st^    |Structuring the Social World       |
+|**2** |       |                   |**The Building Blocks of Society** |
+|2     |3      |September 15^th^   |Culture                            |
+|2     |4      |September 22^nd^   |Socioeconomic Status               |
+|2     |5      |October 6^th^      |Gender and Sexuality               |
+|**3** |       |                   |**The Broken Heart of America**    |
+|3     |6      |October 13^th^     |Race and Racism                    |
+|3     |7      |November 3^rd^     |Intersectionality                  |
+|3     |8      |November 10^th^    |Urban Sociology                    |
+|**4** |       |                   |**Course Conclusion**              |
+|4     |9      |November 17^th^    |Course Conclusion                  |
 
 ### Assignment Due Dates
 
 All assignments are due by the beginning of class unless otherwise noted, and all times are in Central time.
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-2)SOC 1120 Assignment Timeline}
-\centering
-\begin{tabular}[t]{lll}
-\toprule
-Date & Time & Assignment\\
-\midrule
-**August** &  & \\
-Thursday, August 20\textasciicircum{}th\textasciicircum{} &  & Student Information Sheet\\
-Sunday, August 30\textasciicircum{}th\textasciicircum{} & 5pm & Theory Isn't Dead Post 1\\
-**September** &  & \\
-Tuesday, September 1\textasciicircum{}st\textasciicircum{} &  & Theory Isn't Dead Follow-up 1\\
-\addlinespace
-Thursday, September 10\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 1\\
-Monday, September 14\textasciicircum{}th\textasciicircum{} &  & Quiz 1\\
-Sunday, September 20\textasciicircum{}th\textasciicircum{} & 5pm & Theory Isn't Dead Post 2\\
-Tuesday, September 22\textasciicircum{}nd\textasciicircum{} &  & Theory Isn't Dead Follow-up 2\\
-Tuesday, September 29\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 2\\
-\addlinespace
-**October** &  & \\
-Thursday, October 1\textasciicircum{}st\textasciicircum{} &  & QHQ Paper 1\\
-Monday, October 12\textasciicircum{}th\textasciicircum{} &  & Quiz 2\\
-Thursday, October 29\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 3\\
-**November** &  & \\
-\addlinespace
-Sunday, November 1\textasciicircum{}st\textasciicircum{} & 5pm & Theory Isn't Dead Post 3\\
-Tuesday, November 3\textasciicircum{}rd\textasciicircum{} &  & Theory Isn't Dead Follow-up 3\\
-Tuesday, November 3\textasciicircum{}rd\textasciicircum{} &  & QHQ Paper 2\\
-Thursday, November 12\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 4\\
-Tuesday, November 17\textasciicircum{}th\textasciicircum{} &  & QHQ Paper 3\\
-\addlinespace
-Sunday, November 22\textasciicircum{}nd\textasciicircum{} & 5pm & Theory Isn't Dead Post 4\\
-Monday, November 23\textasciicircum{}rd\textasciicircum{} &  & Quiz 3\\
-Tuesday, November 24\textasciicircum{}th\textasciicircum{} &  & Theory Isn't Dead Follow-up 4\\
-Monday, November 30\textasciicircum{}th\textasciicircum{} &  & Final Project\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-2)SOC 1120 Assignment Timeline
+
+|Date                       |Time |Assignment                    |
+|:--------------------------|:----|:-----------------------------|
+|**August**                 |     |                              |
+|Thursday, August 20^th^    |     |Student Information Sheet     |
+|Sunday, August 30^th^      |5pm  |Theory Isn't Dead Post 1      |
+|**September**              |     |                              |
+|Tuesday, September 1^st^   |     |Theory Isn't Dead Follow-up 1 |
+|Thursday, September 10^th^ |     |Sociological Experience 1     |
+|Monday, September 14^th^   |     |Quiz 1                        |
+|Sunday, September 20^th^   |5pm  |Theory Isn't Dead Post 2      |
+|Tuesday, September 22^nd^  |     |Theory Isn't Dead Follow-up 2 |
+|Tuesday, September 29^th^  |     |Sociological Experience 2     |
+|**October**                |     |                              |
+|Thursday, October 1^st^    |     |QHQ Paper 1                   |
+|Monday, October 12^th^     |     |Quiz 2                        |
+|Thursday, October 29^th^   |     |Sociological Experience 3     |
+|**November**               |     |                              |
+|Sunday, November 1^st^     |5pm  |Theory Isn't Dead Post 3      |
+|Tuesday, November 3^rd^    |     |Theory Isn't Dead Follow-up 3 |
+|Tuesday, November 3^rd^    |     |QHQ Paper 2                   |
+|Thursday, November 12^th^  |     |Sociological Experience 4     |
+|Tuesday, November 17^th^   |     |QHQ Paper 3                   |
+|Sunday, November 22^nd^    |5pm  |Theory Isn't Dead Post 4      |
+|Monday, November 23^rd^    |     |Quiz 3                        |
+|Tuesday, November 24^th^   |     |Theory Isn't Dead Follow-up 4 |
+|Monday, November 30^th^    |     |Final Project                 |
 
 ### Scheduling Notes
 

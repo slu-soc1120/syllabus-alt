@@ -5,19 +5,15 @@ This section provides general details on the different types of assignments for 
 
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below. 
 
-\begin{rmdwarning}
-As a reminder, all due dates are provisional due to the uncertainty
-around COVID-19 and how it will affect our semester. I will continually
-update you during class and via Blackboard about the status of each
-assignment's due dates as the semester progresses.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>As a reminder, all due dates are provisional due to the uncertainty around COVID-19 and how it will affect our semester. I will continually update you during class and via Blackboard about the status of each assignment’s due dates as the semester progresses.</p>
+</div>
 
 ### Attendance and Participation
 
-\begin{rmdtip}
-Attendance and participation are worth 90 points, or \textbf{14.4\%} of
-your final grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>Attendance and participation are worth 90 points, or <strong>14.4%</strong> of your final grade</p>
+</div>
 
 As discussed above, both attendance and participation are important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during class (including being present for and participating in course discussions), and (c) class "entry" and "exit tickets."
 
@@ -27,9 +23,9 @@ Your participation grade will be split, with 20 points for Part 1, 30 points eac
 
 ### Theory Isn't Dead Posts
 
-\begin{rmdtip}
-Theory posts are worth 80 points, or \textbf{12.8\%} of your final grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>Theory posts are worth 80 points, or <strong>12.8%</strong> of your final grade</p>
+</div>
 
 Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Blackboard before 5pm on the due date.
 
@@ -46,10 +42,9 @@ Due dates for the Theory Post are as follows:
 
 ### Sociological Experiences
 
-\begin{rmdtip}
-Theory reflections are worth 80 points, or \textbf{12.8\%} of your final
-grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>Theory reflections are worth 80 points, or <strong>12.8%</strong> of your final grade</p>
+</div>
 
 Over the course of the semester, there will be four short exercises that ask you to link data to your own personal experiences. Data for these exercises will be drawn primarily from <a href = "http://ezp.slu.edu/login?url=http://www.socialexplorer.com/ezproxy" target = "_blank">Social Explorer</a>, a tool that makes it easy to find demographic data about various places in the United States. These reflections should be approximately 1-2 paragraphs in length.
 
@@ -64,9 +59,9 @@ Due dates for the Sociological Experiences are as follows:
 
 ### QHQ Papers
 
-\begin{rmdtip}
-QHQ Papers are worth 150 points, or \textbf{24\%} of your final grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>QHQ Papers are worth 150 points, or <strong>24%</strong> of your final grade</p>
+</div>
 
 Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. 
 
@@ -80,9 +75,9 @@ Due dates for the QHQs are as follows:
 
 ### Quizzes
 
-\begin{rmdtip}
-Quizzes are worth 150 points, or \textbf{24\%} of your final grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>Quizzes are worth 150 points, or <strong>24%</strong> of your final grade</p>
+</div>
 
 Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Blackboard. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 35 minutes to complete it. 
 
@@ -95,10 +90,9 @@ Quiz dates are as follows:
 
 ### Final Project
 
-\begin{rmdtip}
-The Final Project is worth 75 points, or \textbf{12\%} of your final
-grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>The Final Project is worth 75 points, or <strong>12%</strong> of your final grade</p>
+</div>
 
 This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Blackboard. The final project will be due by **Monday, November 30^th^.**
 
@@ -128,27 +122,20 @@ All grades that use a “check” system (the Theory Isn't Dead and Sociological
 
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-8)SOC 1120 Points Breakdown}
-\centering
-\begin{tabular}[t]{llllll}
-\toprule
-Assignment & Period & Points & Quantity & Total & Percent\\
-\midrule
-Participation & Part 1 & 20 pts & x1 & 20 pts & 14.4\%\\
- & Part 2 & 30 pts & x1 & 30 pts & \\
- & Part 3 & 30 pts & x1 & 30 pts & \\
- & Part 4 & 10 pts & x1 & 10 pts & \\
-Theory Isn't Dead &  & 20 pts & x4 & 80 pts & 12.8\%\\
-\addlinespace
-Sociological Experiences &  & 20 pts & x4 & 80 pts & 12.8\%\\
-QHQs &  & 75 pts & x2 & 150 pts & 24.0\%\\
-Quizzes &  & 50 pts & x3 & 150 pts & 24.0\%\\
-Final Project &  & 75 pts & x1 & 75 pts & 12.0\%\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-8)SOC 1120 Points Breakdown
+
+|Assignment               |Period |Points |Quantity |Total   |Percent |
+|:------------------------|:------|:------|:--------|:-------|:-------|
+|Participation            |Part 1 |20 pts |x1       |20 pts  |14.4%   |
+|                         |Part 2 |30 pts |x1       |30 pts  |        |
+|                         |Part 3 |30 pts |x1       |30 pts  |        |
+|                         |Part 4 |10 pts |x1       |10 pts  |        |
+|Theory Isn't Dead        |       |20 pts |x4       |80 pts  |12.8%   |
+|Sociological Experiences |       |20 pts |x4       |80 pts  |12.8%   |
+|QHQs                     |       |75 pts |x2       |150 pts |24.0%   |
+|Quizzes                  |       |50 pts |x3       |150 pts |24.0%   |
+|Final Project            |       |75 pts |x1       |75 pts  |12.0%   |
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
@@ -162,43 +149,39 @@ If you notice a discrepancy between the grade you received in the feedback and w
 
 letter grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible. This will be multiplied by 100 and then converted to a letter grade using the following table:
 
-\begin{table}
-\caption{(\#tab:unnamed-chunk-9)Course Grading Scale}
 
-\centering
-\begin{tabular}[t]{lll}
-\toprule
-GPA & Letter & Percent\\
-\midrule
-4.0 & A & 93.0\% - 100\%\\
-3.7 & A- & 90.0\% - 92.9\%\\
-3.3 & B+ & 87.0\% - 89.9\%\\
-3.0 & B & 83.0\% - 86.9\%\\
-2.7 & B- & 80.0\% - 82.9\%\\
-\bottomrule
-\end{tabular}
-\centering
-\begin{tabular}[t]{lll}
-\toprule
-GPA & Letter & Percent\\
-\midrule
-2.3 & C+ & 77.0\% - 79.9\%\\
-2.0 & C & 73.0\% - 76.9\%\\
-1.7 & C- & 70.0\% - 72.9\%\\
-1.0 & D & 63.0\% - 69.9\%\\
-0.0 & F & < 63.0\%\\
-\bottomrule
-\end{tabular}
-\end{table}
+<table class="kable_wrapper">
+<caption>(\#tab:unnamed-chunk-9)Course Grading Scale</caption>
+<tbody>
+  <tr>
+   <td> 
+
+|GPA |Letter |Percent       |
+|:---|:------|:-------------|
+|4.0 |A      |93.0% - 100%  |
+|3.7 |A-     |90.0% - 92.9% |
+|3.3 |B+     |87.0% - 89.9% |
+|3.0 |B      |83.0% - 86.9% |
+|2.7 |B-     |80.0% - 82.9% |
+
+ </td>
+   <td> 
+
+|GPA |Letter |Percent       |
+|:---|:------|:-------------|
+|2.3 |C+     |77.0% - 79.9% |
+|2.0 |C      |73.0% - 76.9% |
+|1.7 |C-     |70.0% - 72.9% |
+|1.0 |D      |63.0% - 69.9% |
+|0.0 |F      |< 63.0%       |
+
+ </td>
+  </tr>
+</tbody>
+</table>
 
 Updates to grades will be provided at midterms, and you can follow your progress via the `My Grades` area on Blackboard. I round-up final grades that are within a half percentage point of the next highest letter grade. Requests for final grade changes outside of this range will not be honored.
 
-\begin{rmdwarning}
-No chances will be given for revisions of poor grades. Incomplete grades
-will be given upon request only if you have a ``C'' average and have
-completed at least two-thirds of the possible points (412 points). You
-should note that incomplete grades must be rectified by the specified
-deadline or they convert to an ``F''. This policy reflects the
-\href{https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/}{University's
-policy on incomplete coursework}.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a “C” average and have completed at least two-thirds of the possible points (412 points). You should note that incomplete grades must be rectified by the specified deadline or they convert to an “F”. This policy reflects the <a href="https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/">University’s policy on incomplete coursework</a>.</p>
+</div>
