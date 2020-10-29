@@ -158,15 +158,16 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 1-23 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
+    * Reading TBD
     * Read Cooper et al. (2003)
-      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="https://www-nejm-org.ezp.slu.edu/doi/full/10.1056/NEJMsb022863" target="_blank">Link</a>)
+      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="#" target="_blank">Link</a>)
   
 ---
 
 ### Meeting 18 - Thursday, October 15^th^ - Race and Racism 2 {-}
 
-  * **After Class:**
-    * Mid-Semester Exit Ticket
+  * **Before Class:**
+    * Reading TBD
 
   
 ---
@@ -183,6 +184,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 23-28 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
+    * Reading TBD
   * **After Class:**
     * Complete Sociological Experience 3
     
@@ -192,11 +194,11 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read Jones (2006)
-      * Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a href="" target="_blank">Link</a>)
+      * Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a href="https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2004.054262" target="_blank">Link</a>)
     * Read Sarche and Spicer (2008)
-      * Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a href="#" target="_blank">Link</a>)
+      * Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2567901/" target="_blank">Link</a>)
     * Read Williams and Sternthal (2010)
-      * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="#" target="_blank">Link</a>)
+      * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/abs/10.1177/0022146510383838" target="_blank">Link</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 4 - "Bad Sugar" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
     * Complete Theory Isn't Dead Post 3 and the associated Follow-up
@@ -216,9 +218,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read Collins et al. (2004)
-      * Collins, Jr, James W. et al. 2004. "Very Low Birthweight in African American Infants: The Role of Maternal Exposure to Interpersonal Racial Discrimination." *American Journal of Public Health* 94(12):2132-2138. (<a href="#" target="_blank">Link</a>)
+      * Collins, Jr, James W. et al. 2004. "Very Low Birthweight in African American Infants: The Role of Maternal Exposure to Interpersonal Racial Discrimination." *American Journal of Public Health* 94(12):2132-2138. (<a href="https://ajph.aphapublications.org/doi/abs/10.2105/ajph.94.12.2132" target="_blank">Link</a>)
     * Read David and Collins (1997)
-      * David, Richard J. and James W. Collins, Jr. 1997. "Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites." *The New England Journal of Medicine* 337:1209-1214. (<a href="#" target="_blank">Link</a>)
+      * David, Richard J. and James W. Collins, Jr. 1997. "Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites." *The New England Journal of Medicine* 337:1209-1214. (<a href="https://www.nejm.org/doi/full/10.1056/NEJM199710233371706" target="_blank">Link</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 2 - "When the Bough Breaks" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
 
@@ -263,9 +265,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read Quadagno (2010)
-      * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="#" target="_blank">Link</a>)
+      * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="https://journals.sagepub.com/doi/abs/10.1177/0022146510368931" target="_blank">Link</a>)
     * Read Williams (2010)
-      * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="#" target="_blank">Link</a>)
+      * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0071" target="_blank">Link</a>)
   * **After Class:**
     * Complete Theory Isn't Dead Post 4 and the associated Follow-up
     * Study for Quiz 3 on Monday, November 23^rd^
