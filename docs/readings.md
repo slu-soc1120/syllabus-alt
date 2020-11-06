@@ -231,7 +231,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 12 - Urban Sociology" (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Read selections from *Segregation in St. Louis: Dismantling the Divide* (<a href="https://forthesakeofall.org/wp-content/uploads/2018/04/SegregationinSTL_DismantlingDivideReport.pdf" target="_blank">Link</a>)
+    * Read selections from *Segregation in St. Louis: Dismantling the Divide* (<a href="https://wustl.app.box.com/s/y1n98bgzm6wulv3xg56krvg5r5axhhva" target="_blank">Link</a>)
       * Chapter 1 - "Segregation at the center", pp. 4-13
       * Chapter 2 - "St. Louis: A city of promise, a history of segregation", pp. 14-25
       * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
@@ -243,7 +243,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 ### Meeting 24 - Thursday, November 12^th^ - Cities and Health {-}
 
   * **Before Class:**
-    * Read selections from *For the Sake of All: A report on the health and well-being of African Americans in St. Louis and why it matters for everyone* (<a href="https://forthesakeofall.org/wp-content/uploads/2016/06/FSOA_report_2.pdf" target="_blank">Link</a>)
+    * Read selections from *For the Sake of All: A report on the health and well-being of African Americans in St. Louis and why it matters for everyone* (<a href="https://cpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/3/1454/files/2018/06/FSOA_report_2-17zd1xm.pdf" target="_blank">Link</a>)
       * Chapter 1 - "Introduction: Why consider economics, education, and health together?", pp. 10-15
       * Chapter 3 - "Place matters: Neighborhood resources and health", pp. 26-33
       * Chapter 5 - "A health profile of African Americans in St. Louis", pp. 46-67
