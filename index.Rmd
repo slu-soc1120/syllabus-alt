@@ -15,9 +15,9 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Meetings {-}
 
-*When:* Tuesdays and Thursdays, 12:45pm CST to 2:00pm CST
+*When:* Tuesday and Thursday, 12:45pm CST to 2:00pm CST
 
-*Where:*  Zoom (see <a href = "https://blackboard.slu.edu" target = "_blank">Blackboard</a> for the link and password)
+*Where:* Davis-Shaughnessy Hall 374
 
 ### Course Website {-}
 
@@ -25,32 +25,27 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Materials {-}
 
-<https://blackboard.slu.edu>
+<https://canvas.slu.edu>
 
 ### Chris’s Information {-}
 
 ```{block, type = "rmdwarning"}
-Please note that I am not on-campus this semester due to the continuing COVID-19 pandemic. All course meetings, office hours, and individual student meetings will occur virtually via Zoom.
+Please note that while I am teaching face to face this semester, all other interactions for this course will take place virtually.
 ```
 
 **Email:** <chris.prener@slu.edu>
 
-**Office Hours, Appointment Only:** Thursdays, 9am-10am via Zoom; <a href = "https://calendly.com/chris-prener" target = "_blank">sign-up via Calendly</a> to receive personalized calendar and Zoom invitations (SLU log-in required; SLU log-in required)
-
-**Office Hours, Drop-in:** Thursdays, 10am-10:45am via <a href = "https://slu.zoom.us/j/94750927433" target = "_blank">Zoom</a> (SLU log-in required; you will be admitted to a waiting room)
+**Office Hours, Appointment Only:** Wednesdays, 9:00 AM CST to 10:30 AM CST; <a href = "https://calendly.com/chris-prener" target = "_blank">sign-up via Calendly</a> to receive personalized calendar and Zoom invitations (SLU log-in required)
 
 ## Hard-copy Syllabus {-}
 If you would like to keep a record of the syllabus, there is a `.pdf` download button (<i class="fa fa-file-pdf-o"></i>) in the top toolbar.This document will contain a "snapshot" of the course policies and planned schedule as of the beginning of the semester but will not be subsequently updated. See the "Preface and Warning" on page 2 of the `.pdf` for additional details.
 
 ## Change Log {-}
 
-* August 13^th^, 2019 - Add Fall 2020 draft
-* August 14^th^, 2019 - Publish initial Fall 2020 draft
-* August 17^th^, 2019 - Clarify accessing *A Sociology Experiment* and how attendance collection works
-* August 18^th^, 2019 - Clarify attendance further
+* August 20, 2021 - Add schedule for Fall 2021
 
 ## License {-}
-Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
+Copyright © 2016-2021 [Christopher G. Prener](https://chris-prener.github.io)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 

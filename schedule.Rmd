@@ -1,5 +1,22 @@
 # (PART) Reading List {-}
 
+```{r, echo=FALSE, message=FALSE}
+schedule_tbl <- readr::read_csv("schedule.csv", 
+                                col_types = readr::cols(
+                                  module = readr::col_character(),
+                                  date = readr::col_character(),
+                                  start = readr::col_logical()
+  ))
+schedule_tbl <- dplyr::mutate(schedule_tbl, date = lubridate::mdy(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, month = lubridate::month(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, month = month.name[month])
+schedule_tbl <- dplyr::mutate(schedule_tbl, day = lubridate::day(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, dow = weekdays(date, abbreviate = FALSE))
+schedule_tbl <- dplyr::mutate(schedule_tbl, label = paste0(dow, ", ", month, " ", day))
+
+start_tbl <- dplyr::filter(schedule_tbl, start == TRUE)
+```
+
 # Course Schedule
 
 The following is a high-level schedule that details the general topic covered by each module. Modules are collections of two or more lectures and class discussions under the broad headings provided below.
@@ -9,18 +26,18 @@ schedule <- dplyr::tibble(
   Part = c("**1**", "1", "1", "**2**", "2", "2", "2", "**3**", "3", "3", "3", "**4**", "4"),
   Module = c("", "1", "2", "", "3", "4", "5", "", "6", "7", "8", "", "9"),
   `Planned Start Date` = c("", 
-                           "August 18^th^", 
-                           "September 1^st^",
+                           start_tbl$label[1], 
+                           start_tbl$label[2],
                            "",
-                           "September 15^th^",
-                           "September 22^nd^",
-                           "October 6^th^",
+                           start_tbl$label[3],
+                           start_tbl$label[4],
+                           start_tbl$label[5],
                            "",
-                           "October 13^th^",
-                           "November 3^rd^",
-                           "November 10^th^",
+                           start_tbl$label[6],
+                           start_tbl$label[7],
+                           start_tbl$label[8],
                            "",
-                           "November 17^th^"),
+                           start_tbl$label[9]),
   Title = c("**Thinking Like Sociologists**",
             "Engaging the Social World",
             "Structuring the Social World",
@@ -42,70 +59,8 @@ knitr::kable(
 )
 ```
 
-### Assignment Due Dates
-
-All assignments are due by the beginning of class unless otherwise noted, and all times are in Central time.
-
-```{r, echo=FALSE}
-schedule <- dplyr::tibble(
-  Date = c("**August**",
-           "Thursday, August 20^th^",
-           "Sunday, August 30^th^",
-           "**September**",
-           "Tuesday, September 1^st^",
-           "Thursday, September 10^th^",
-           "Monday, September 14^th^",
-           "Sunday, September 20^th^",
-           "Tuesday, September 22^nd^",
-           "Tuesday, September 29^th^",
-           "**October**",
-           "Thursday, October 1^st^",
-           "Monday, October 12^th^",
-           "Thursday, October 29^th^",
-           "**November**",
-           "Sunday, November 1^st^",
-           "Tuesday, November 3^rd^",
-           "Tuesday, November 3^rd^",
-           "Thursday, November 12^th^",
-           "Tuesday, November 17^th^",
-           "Sunday, November 22^nd^",
-           "Monday, November 23^rd^",
-           "Tuesday, November 24^th^",
-           "Monday, November 30^th^"
-           ),
-  Time = c("", "", "5pm", "", "", "", "", "5pm", "", "", "", "", "", "", "", "5pm", "", "", "", "", "5pm", "", "", ""),
-  Assignment = c("",
-                 "Student Information Sheet", 
-                 "Theory Isn't Dead Post 1", 
-                 "",
-                 "Theory Isn't Dead Follow-up 1", 
-                 "Sociological Experience 1",
-                 "Quiz 1",
-                 "Theory Isn't Dead Post 2", 
-                 "Theory Isn't Dead Follow-up 2", 
-                 "Sociological Experience 2",
-                 "",
-                 "QHQ Paper 1",
-                 "Quiz 2",
-                 "Sociological Experience 3",
-                 "",
-                 "Theory Isn't Dead Post 3", 
-                 "Theory Isn't Dead Follow-up 3", 
-                 "QHQ Paper 2",
-                 "Sociological Experience 4",
-                 "QHQ Paper 3",
-                 "Theory Isn't Dead Post 4", 
-                 "Quiz 3",
-                 "Theory Isn't Dead Follow-up 4",
-                 "Final Project")
-)
-
-knitr::kable(
-  schedule, booktabs = TRUE,
-  caption = "SOC 1120 Assignment Timeline"
-)
-```
-
 ### Scheduling Notes
 
 The course schedule may change as it depends on the progress of the class and the [challenges we are confronted by this semester](covid-19.html). The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
+
+This semester, we will not have class on **October 28** and **November 25** because they fall on University breaks. Additionally, no class activities are scheduled for **October 26** or **November 23**. These are "flex days," which I have left without a scheduled plan to accommodate changes due to COVID-19. If we are approaching these dates without having had to use them, these will become days off from this course.

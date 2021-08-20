@@ -8,7 +8,7 @@ My priority is that class periods are productive learning experiences for all st
   4. Do not engage in side conversations. This is disrespectful to the speaker (whether me or a classmate), and can affect the ability of others in the class to learn.
   5. Be respectful of your fellow classmates. Do not interrupt when someone is speaking, monopolize the conversation, or belittle the ideas or opinions of others. 
   6. Complete the assigned readings for each class in advance, and come prepared with discussion points and questions.
-  7. Follow my best practices for using <a href = "https://slu-soc1120.github.io/docs/start_zoom/#other-considerations" target = "_blank">Zoom</a> and <a href = "https://slu-soc1120.github.io/docs/start_blackboard/#netiquette-considerations" target = "_blank">Blackboard</a>.
+  7. Follow my best practices for using <a href = "https://slu-soc1120.github.io/docs/start_zoom/#other-considerations" target = "_blank">Zoom</a> and <a href = "https://slu-soc1120.github.io/docs/start_canvas/#netiquette-considerations" target = "_blank">Canvas</a>.
     
 The following sections contain additional details about specific course policies related to attendance, participation, electronic device use, student support, academic honesty, and Title IX.
 
@@ -21,30 +21,63 @@ Please, first and foremost, focus on what matters most and practice self care. P
 Again, my biggest priority this semester is your health and well-being. Please reach out if you want to talk about strategies for managing our "new normal," if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the <a href = "https://www.slu.edu/life-at-slu/university-counseling/index.php" target = "_blank">University Counseling Center</a> at 314-977-TALK or <a href = "https://www.slu.edu/life-at-slu/campus-ministry/index.php" target = "_blank">Campus Ministry</a> at 314-977-2425 or <campusministry@slu.edu>.
 
 ### Planning for Disruptions
-While we are starting the semester with many of you in St. Louis, and I am certainly rooting for a semester where you all are able to remain on-campus through Thanksgiving Break, we should recognize that there may be disruptions. For some of you, you may find yourselves quarantined because of an exposure to someone infected with COVID-19. You may become sick yourselves. Changes both on-campus and in the greater St. Louis community may mean changes to how SLU operates and even whether or not you can continue to remain on-campus. 
+While we are starting the semester with all of you in St. Louis, and I am certainly rooting for a semester where you all are able to remain on-campus through Thanksgiving Break, we should recognize that there may be disruptions. For some of you, you may find yourselves quarantined because of an exposure to someone infected with COVID-19. You may become sick yourselves. Changes both on-campus and in the greater St. Louis community may mean changes to how SLU operates and even whether or not you can continue to remain on-campus. 
 
 Given that these are not abstract concerns, everything laid out here represents a best case scenario for the semester. We may find ourselves needing to change some course policies, reading and assignment schedules, and even teaching modalities based on the challenges we are confronted with this semester. I ask for your patience and your flexibility if and when we do need to make these changes. For my part, I will do my best to stay in touch with you and communicate clearly how these changes will impact our course. 
 
-One way that I am proactively preparing for disruptions is to add two **"flex days"** to the syllabus. I do not have any content planned for **October 22^nd^** or **November 24^th^**. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we are approaching these dates without having had to use them, I will communicate my plans for both days with you all so that you can plan your time accordingly.
+One way that I am proactively preparing for disruptions is to add two **"flex days"** to the syllabus. I do not have any content planned for **October 26** or **November 23**. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we are approaching these dates without having had to use them, these will become days off from this course.
 
-**You should therefore treat all of the course dates as provisional.** This is my plan as of August 14^th^, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Blackboard regularly. I appreciate everyone’s willingness to roll with the many punches we are all facing right now. Remember, we are in this together. 
+**You should therefore treat all of the course dates as provisional.** This is my plan as of August 20, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Canvas regularly. I appreciate everyone’s willingness to roll with the many punches we are all facing right now. Remember, we are in this together. 
 
 ### Face Masks
-Since we are meeting virtually, I hope that our class meetings are able to be more relaxed than an in-person course, where face masks and social distancing will be ever present. If you do decide to meet-up with classmates in-person to study for a quiz or work on coursework, it is imperative that you follow SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>.
+Throughout the COVID-19 pandemic, key safeguards like face masks have allowed SLU to safely maintain in-person learning. If public health conditions and local, state, and federal restrictions demand it, the University may require that all members of our campus community wear face masks indoors. 
 
-The University’s <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">Interim Policy on Face Masks</a> governs all students, faculty, staff, and campus visitors in all University-owned, leased, or operated facilities.   All persons physically present in any such University facility associated with this course shall comply fully with this policy at all times.  Masks must be worn before entry to all such University facilities (as well as outdoors on all University property when six feet of distance is unpredictable or cannot be maintained).
+**Therefore, any time a University-level face mask requirement is in effect, face masks will be required in this class.** This expectation will apply to all students and instructors, unless a medical condition warrants an exemption from the face mask requirement (see below). 
 
-Saint Louis University is committed to maintaining an inclusive and accessible environment.  Individuals who are unable to wear a face mask due to medical reasons should contact the Office of Disability Services or Human Resources to initiate the accommodation process identified in the University’s <a href = "https://www.slu.edu/human-resources/pdfs/policies/americans-disabilities-act-policy.pdf" target = "_blank">ADA Policy</a>. Inquires or concerns may also be directed to the <a href = "https://www.slu.edu/general-counsel/institutional-equity-diversity/index.php" target = "_blank">Office of Institutional Equity and Diversity</a>.   Notification to instructors of SLU-approved ADA accommodations should be made in writing prior to the first class session in any term (or as soon thereafter as possible).
+**When a University-wide face mask requirement is in effect,** the following will apply:
 
-As the instructor of this course, I shall comply fully with SLU’s policy and all related ADA regulations. 
+  * Students who attempt to enter a classroom without wearing masks will be asked by the instructor to put on their masks prior to entry. Students who remove their masks during a class session will be asked by the instructor to resume wearing their masks. 
+  * Students and instructors may remove their masks briefly to take a sip of water but should replace masks immediately. The consumption of food will not be permitted.
+  * Students who do not comply with the expectation that they wear a mask in accordance with the University-wide face mask requirement may be subject to disciplinary actions per the rules, regulations, and policies of Saint Louis University, including but not limited to those outlined in the Student Handbook. Non-compliance with this policy may result in disciplinary action, up to and including any of the following:
+     * dismissal from the course(s)
+     * removal from campus housing (if applicable)
+     * dismissal from the University
+  * To immediately protect the health and well-being of all students, instructors, and staff, instructors reserve the right to cancel or terminate any class session at which any student fails to comply with a University-wide face mask requirement.  
 
-Students who do not comply with a request by a SLU instructor to wear a mask in accordance with the University’s Interim Policy on Face Masks may be subject to disciplinary actions per the rules, regulations, and policies of Saint Louis University, including but not limited to the Student Handbook.  Non-compliance with this policy may result in disciplinary action, up to and including any of the following:
-  
-  *	dismissal from the course(s)
-  * removal from campus housing (if applicable) 
-  * dismissal from the University
+**When a University-wide face mask requirement is in effect,** students and instructors may choose to wear a face mask or not, as they prefer for their own individual comfort level.
 
-Students are strongly encouraged to identify to their instructor any student or instructor not in compliance.  Non-compliance may be anonymously reported via the SLU Integrity Hotline at 1-877-525-5669 (or confidentially via the <a href = "http://www.lighthouse-services.com/slu" target = "_blank">Integrity Hotline's website</a>.
+#### ADA Accomodations for Face Mask Requirements
+Saint Louis University is committed to maintaining an inclusive and accessible environment. Individuals who are unable to wear a face mask due to medical reasons should contact the Office of Disability Services (students) or Human Resources (instructors) to initiate the accommodation process identified in the University’s [ADA Policy](https://www.slu.edu/human-resources/pdfs/policies/americans-disabilities-act-policy.pdf). Inquiries or concerns may also be directed to the [Office of Institutional Equity and Diversity](https://www.slu.edu/general-counsel/institutional-equity-diversity/index.php). Notification to instructors of SLU-approved ADA accommodations should be made in writing prior to the first class session in any term (or as soon thereafter as possible).
+
+### Attendance Policies
+The health and well-being of SLU’s students, staff, and faculty are critical concerns, as is the quality of our learning environments.  Accordingly, the following University policy statements on in-person class attendance are designed to preserve and advance the collective health and well-being of our institutional constituencies and to create the conditions in which all students have the opportunity to learn and successfully complete their courses.
+
+  1. Students who exhibit [any potential COVID-19 symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) (those that cannot be attributed to some other medical condition the students are known to have, such as allergies, asthma, etc.) shall absent themselves from any in-person class attendance or in-person participation in any class-related activity until they have been evaluated by a qualified medical official.  Students should contact the [University Student Health Center](https://www.slu.edu/life-at-slu/student-health/index.php) for immediate assistance.
+  2. Students (whether exhibiting any of potential COVID-19 symptoms or not, and regardless of how they feel) who are under either an isolation or quarantine directive issued by a qualified health official must absent themselves from all in-person course activities per the stipulations of the isolation or quarantine directive.
+  3. Students are responsible for notifying their instructor of an absence as far in advance as possible; when advance notification is not possible, students are responsible for notifying each instructor as soon after the absence as possible. Consistent with the [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), students also are responsible for all material covered in class and must work with the instructor to complete any required work. In situations where students must be absent for an extended period of time due to COVID-19 isolation or quarantine, they also must work with the instructor to determine the best way to maintain progress in the course as they are able based on their health situation. 
+  4. Consistent with the [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), students may be asked to provide medical documentation when a medical condition impacts a student’s ability to attend and/or participate in class for an extended period of time. 
+  5. As a temporary amendment to the current [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), all absences due to illness or an isolation/quarantine directive issued by a qualified health official, or due to an adverse reaction to a COVID-19 vaccine, shall be considered “Authorized” absences.
+
+### Seating Policy
+In order to facilitate contact tracing, the University is requiring that we record where students sit each day of class. In order to reduce the burden of this on all of us, I will ask that you sit in the same space for each class section. For the first three course meetings, I will ask students to sign-in not just for attendance purposes, but for seating location purposes as well. After the third course meeting, I will ask you to not switch seats for the remainder of the semester. If you need to change seating for any reason during the remainder of the semester, please speak with me first. When we have our *Mama* discussions, I will ask each group to fill out an individual seating chart to facilitate contact tracing. I recognize that this is an added burden for all of us, and appreciate your cooperation with it. 
+
+### Zoom Policies
+
+```{block, type = "rmdwarning"}
+This section of the syllabus will only apply if we switch to having class remotely.
+```
+
+If we have to meet via Zoom, there will be several additional policies to note:
+
+  1. Attending via Zoom is required. There is not an alternative means for completing this course. *If you have a concern about technology, internet access, or other barriers to regularly attending class via Zoom, please let me know as soon as possible.*
+      * If there is a need for some or all of you to change from learning on-campus to learning from home or another location, we will work together to identify strategies for you to successfully complete the course.
+    
+  2. Do not share Zoom details, including login information, links, and passwords, with anyone outside of this course.
+  3. Using your camera is *strongly encouraged* during group discussions, but is not otherwise required.
+  4. Please keep your microphone muted unless you are actively speaking. 
+  5. Class recordings will be made via Zoom and/or Panopto, and will be posted to Canvas. Recordings should not be shared outside of class. They will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. *If this presents a privacy concern for you, please let me know as soon as possible.*
+
+The <a href ="https://slu-soc1120.github.io/docs/start_zoom/" target = "_blank">Course Docs</a> contain some additional tips for using Zoom. Please review them closely.
 
 ## Attendance and Participation
 
@@ -58,40 +91,22 @@ Please see the <a href = "https://catalog.slu.edu/academic-policies/academic-pol
 ### Attendace Collection
 In order to help identify students who might need extra support, I do keep track of who attends class. Attendance check-ins will be collected through a simple web-form. Students will need a <a href = "https://en.wikipedia.org/wiki/QR_code" target = "_blank">QR code</a> reader application installed on their smartphone to check-in if their phone does not support it automatically. The <a href ="https://slu-soc1120.github.io/docs/start_other/#attendance" target = "_blank">Course Docs</a> contain some additional details and links for learning more about how this works. 
 
-This QR code will be available on-screen until I begin class. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the "front matter" and "back matter" sections of the lecture slides. Attendance submissions must be received by the end of the class period.
+This QR code will be available as print-outs in the back and front of the classroom. Please scan them as you come into class. Attendance submissions must be received by the end of the class period.
 
 These web forms are **time stamped**, so if you sign the form 3 minutes after the beginning of class or later, you will be marked as 'late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
 
 If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
 
-### Zoom Policies
-Since we are meeting virtually via Zoom, there are several additional policies to note:
-
-  1. Attending via Zoom is required. There is not an alternative means for completing this course. *If you have a concern about technology, internet access, or other barriers to regularly attending class via Zoom, please let me know as soon as possible.*
-      * If there is a need for some or all of you to change from learning on-campus to learning from home or another location, we will work together to identify strategies for you to successfully complete the course.
-    
-  2. Do not share Zoom details, including login information, links, and passwords, with anyone outside of this course.
-  3. Using your camera is *strongly encouraged* during group discussions, but is not otherwise required.
-  4. Please keep your microphone muted unless you are actively speaking. 
-  5. Class recordings will be made via Zoom and/or Panopto, and will be posted to Blackboard. Recordings should not be shared outside of class. They will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. *If this presents a privacy concern for you, please let me know as soon as possible.*
-
-The <a href ="https://slu-soc1120.github.io/docs/start_zoom/" target = "_blank">Course Docs</a> contain some additional tips for using Zoom. Please review them closely.
-
-### COVID-19 Specific Policies
-The following COVID-19 specific policies apply to this course. In general, if you are sick but you feel well enough to attend class, you should continue to attend this class since we are meeting virtually. If you are sick and do not feel well enough to attend class, please let me know as soon as possible! As I have said previously, taking care of yourselves should be your first priority.
-
-  1. Students who exhibit any <a href = "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html" target = "_blank">potential COVID symptoms</a> (those that cannot be attributed to some other medical condition the students are known to have, such as allergies, asthma, etc.) shall absent themselves from any in-person class attendance or in-person participation in any class-related activity until they have been evaluated by a qualified medical official. Students should contact the <a href = "https://www.slu.edu/life-at-slu/student-health/index.php" target = "_blank">University Student Health Center</a> for immediate assistance. 
-   2. Students who exhibit any <a href = "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html" target = "_blank">potential COVID symptoms</a> (those that cannot be attributed to some other medical condition the students are known to have, such as allergies, asthma, etc.) but who feel well enough to a) attend the course synchronously in an online class session or b) participate in asynchronous online class activities, are expected to do so.  Those who do not feel well enough to do so should absent themselves accordingly. 
-   3. Students (whether exhibiting any of potential COVID symptoms or not, and regardless of how they feel) who are under either an isolation or quarantine directive issued by a qualified health official must absent themselves from all in-person course activity per the stipulations of the isolation or quarantine directive.  They are expected to participate in synchronous or asynchronous online class activities as they feel able to do so, or absent themselves accordingly.
-   4. Students are responsible for notifying each instructor of an absence as far in advance as possible; when advance notification is not possible, students are responsible for notifying each instructor as soon after the absence as possible.
-   5. As a temporary amendment to the current <a href = "https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/" target = "_blank">University Attendance Policy</a>, all absences due to illness or an isolation/quarantine directive issued by a qualified health official shall be considered “Authorized” absences (effective August 2020 through May 2021). 
+```{block, type = "rmdwarning"}
+If we have to switch to having class remotely, the QR code will be available on-screen. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the "front matter" and "back matter" sections of the lecture slides. Attendance submissions must be received by the end of the class period.
+```
 
 ### Missed Classes
 My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
 
 Specific elements of the course, such as participation in group discussions during lectures as well as the QHQ discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.
 
-It is your responsibility to make-up missed classes, including viewing the lecture recording and, if needed, obtaining notes from a classmate All lecture slides will be posted on Blackboard before class begins along with relevant notes for that lecture. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
+It is your responsibility to make-up missed classes, including viewing the lecture recording and, if needed, obtaining notes from a classmate All lecture slides will be posted on Canvas before class begins along with relevant notes for that lecture. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
 
 ## Communication
 
@@ -108,10 +123,6 @@ During class periods, students are asked to refrain from using electronic device
 There is evidence that using electronic devices during lectures results in decreased retention of course content ([Hembrooke and Gay 2003](https://link.springer.com/article/10.1007/BF02940852)) and lower overall course performance ([Fried 2008](https://www.sciencedirect.com/science/article/pii/S0360131506001436)). Students who are not using a laptop but are in direct view of another student’s laptop also have decreased performance in courses ([Sana et al. 2013](https://www.sciencedirect.com/science/article/pii/S0360131512002254)). Conversely, students who take notes the “old fashioned way” have better performance on tests compared to students who take notes on laptops ([Mueller and Oppenheimer 2014](http://journals.sagepub.com/doi/abs/10.1177/0956797614524581)).
 
 I therefore ask students to be conscious of how they are using their devices, the ways such use impacts their own learning, and the effect that it may have on others around them. I reserve the right to alter this policy if electronic device use becomes problematic during the semester.
-
-```{block, type = "rmdnote"}
-I *strongly* encourage you to take notes for this course either on a second device or by hand so that you can make the Zoom window as large as possible. Please let me know by clicking "slow down" in Zoom's <a href = "https://support.zoom.us/hc/en-us/articles/200941109-Attendee-controls-in-a-meeting" target = "_blank">attendee controls</a> or let me know via the chat if you need something repeated or clarified.
-```
 
 ## Student Support
 
@@ -135,17 +146,9 @@ Please note that I will not provide accommodations to students who are not worki
 
 I also encourage you to take advantage of the [University Writing Services (UWS) program](https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php). Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources. 
 
-```{block, type = "rmdnote"}
-Due to COVID-19, all writing services appointments are occurring either over Zoom or asynchronously. Appointments can be made through EAB Navigate.
-```
-
 ### Student Success Coaching
 
 <a href = "https://www.slu.edu/life-at-slu/student-success-center/student-success-coaching.php" target = "_blank">Academic coaches</a> are staff members who can assist with study skills, time management, test and note taking, goal setting, and motivations. They can also help deal with navigating homesickness, making connections on campus, and being successful in online/remote coursework. Coaches will work with you on a weekly basis to develop the skills that are most important to you. For more information, please contact <a href = "emily.m.tuttle@slu.edu" target = "_blank">Emily Tuttle</a>. 
-
-```{block, type = "rmdnote"}
-Due to COVID-19, appointments will be held over Zoom.
-```
 
 ## Academic Honesty
 
@@ -171,4 +174,4 @@ All students should also familiarize themselves with [Saint Louis University’s
 
 Instances of abusive, harassing, or otherwise unacceptable behavior should be reported either directly to the instructor or to the University Administration. Consistent with the above policies, I will forward all reports of inappropriate conduct to the Title IX Coordinator’s office or to the Office of Diversity and Affirmative Action. Please be aware that University policies may require me to forward information about the identity of any students connected to the disclosure.
 
-Please also be aware that communications over various online services, including (but not limited to) Blackboard and Zoom, are covered by this policy.
+Please also be aware that communications over various online services, including (but not limited to) Canvas and Zoom, are covered by this policy.

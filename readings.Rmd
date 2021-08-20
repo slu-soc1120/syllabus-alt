@@ -1,28 +1,60 @@
 # Meeting Schedule
 
-Select a module from the menu to see details about topics, readings, and assignments. Additional notes and links to course materials are available through Blackboard, which has dedicated folders for each module and Meeting.
+Select a module from the menu to see details about topics, readings, and assignments. Additional notes and links to course materials are available through Canvas, which has dedicated sections for each module and meeting.
+
+```{r, echo=FALSE, message=FALSE}
+schedule_tbl <- readr::read_csv("schedule.csv", 
+                                col_types = readr::cols(
+                                  module = readr::col_character(),
+                                  date = readr::col_character(),
+                                  start = readr::col_logical()
+  ))
+schedule_tbl <- dplyr::mutate(schedule_tbl, date = lubridate::mdy(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, month = lubridate::month(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, month = month.name[month])
+schedule_tbl <- dplyr::mutate(schedule_tbl, day = lubridate::day(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, dow = weekdays(date, abbreviate = FALSE))
+schedule_tbl <- dplyr::mutate(schedule_tbl, label = paste0(dow, ", ", month, " ", day))
+
+schedule_assign_tbl <- readr::read_csv("schedule_assignments.csv", 
+                                col_types = readr::cols(
+                                  assignment = readr::col_character(),
+                                  date = readr::col_character()
+  ))
+
+schedule_assign_tbl <- dplyr::filter(schedule_assign_tbl, is.na(assignment) == FALSE)
+
+schedule_assign_tbl <- dplyr::mutate(schedule_assign_tbl, date = lubridate::mdy(date))
+schedule_assign_tbl <- dplyr::mutate(schedule_assign_tbl, month = lubridate::month(date))
+schedule_assign_tbl <- dplyr::mutate(schedule_assign_tbl, month = month.name[month])
+schedule_assign_tbl <- dplyr::mutate(schedule_assign_tbl, day = lubridate::day(date))
+schedule_assign_tbl <- dplyr::mutate(schedule_assign_tbl, dow = weekdays(date, abbreviate = FALSE))
+schedule_assign_tbl <- dplyr::mutate(schedule_assign_tbl, label = paste0(dow, ", ", month, " ", day))
+```
 
 \newpage
 ## Module 1 - Engaging the Social World
 
-### Meeting 01 - Tuesday, August 18^th^ - Course Introduction {-}
+### Meeting 1-1 - `r schedule_tbl$label[1]` - Course Introduction {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 1 - A Sociology Experiment," pp. 1-9 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Complete the Course Onboarding tasks (see Blackboard)
+    * Complete the Course Onboarding tasks (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+  * **After Class:**
+    * Complete the Student Information Sheet for `r schedule_assign_tbl$label[1]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 ---
 
 
-### Meeting 02 - Thursday, August 20^th^ - Social Theory {-}
+### Meeting 1-2 - `r schedule_tbl$label[2]` - Social Theory {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 1 - A Sociology Experiment," pp. 9-24 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Complete the Student Information Sheet (see Blackboard)
+    * Complete the Student Information Sheet (via <a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
 ---
 
-### Meeting 03 - Tuesday, August 25^th^ - Theorizing Health Disparities {-}
+### Meeting 1-3 - `r schedule_tbl$label[3]` - Theorizing Health Disparities {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 15 - Health and Illness," pp. 1-10 and pp. 23-35 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
@@ -32,17 +64,17 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 ---
 
-### Meeting 04 - Thursday, August 27^th^ - Studying Society {-}
+### Meeting 1-4 - `r schedule_tbl$label[4]` - Studying Society {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 2 - Research Methods" (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   * **After Class:**
-    * Complete Theory Isn't Dead Post 1 and the associated Follow-up
+    * Complete Theory Isn't Dead 1 for `r schedule_assign_tbl$label[2]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 2 - Structuring the Social World
 
-### Meeting 05 - Tuesday, September 1^st^ - Nature or Nurture? {-}
+### Meeting 2-1 - `r schedule_tbl$label[5]` - Nature or Nurture? {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 3 - Social Structure and the Individual," pp. 1-4 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
@@ -51,146 +83,144 @@ Select a module from the menu to see details about topics, readings, and assignm
   
 ---
 
-### Meeting 06 - Thursday, September 3^rd^ - Social Structure {-}
+### Meeting 2-2 - `r schedule_tbl$label[6]` - Social Structure {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 3 - Social Structure and the Individual," pp. 4-14 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   
 ---
 
-### Meeting 07 - Tuesday, September 8^th^ - Socialization {-}
+### Meeting 2-3 - `r schedule_tbl$label[7]` - Socialization {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 3 - Social Structure and the Individual," pp. 15-26 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Braveman and Barclay (2009)
       * Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a href="http://pediatrics.aappublications.org.ezp.slu.edu/content/124/Supplement_3/S163" target="_blank">Link</a>)
   * **After Class:**
-    * Complete Sociological Experience 1 - High School
+    * Complete Sociological Experience 1 - High School for `r schedule_assign_tbl$label[4]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+
+---
+
+### Meeting 2-4 - `r schedule_tbl$label[8]` - The Institution of Medicine {-}
+
+  * **Before Class:**
+    * TBD
   
 ---
 
-### Meeting 08 - Thursday, September 10^th^ - Medicalization {-}
+### Meeting 2-5 - `r schedule_tbl$label[9]` - Medicalization {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 15 - Health and Illness," pp. 10-16 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Conrad and Barker (2010)
       * Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a href="http://ezp.slu.edu/login?url=https://www.jstor.org/stable/20798317" target="_blank">Link</a>)
   * **After Class:**
-    * Study for Quiz 1 on Monday, September 14^th^
+    * Study for Quiz 1 on `r schedule_assign_tbl$label[11]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
+  
 \newpage
 ## Module 3 - Culture
 
-### Meeting 09 - Tuesday, September 15^th^ - Decoding Culture {-}
+### Meeting 3-1 - `r schedule_tbl$label[10]` - Decoding Culture {-}
 
 * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 5 - Culture" (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
 
 ---
 
-### Meeting 10 - Thursday, September 17^th^ - Culture and Health {-}
+### Meeting 3-2 - `r schedule_tbl$label[11]` - Culture and Health {-}
 
   * **Before Class:**
     * Read Acevedo-Garcia and Bates (2008)
-      * Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (Blackboard)
+      * Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 3 - "Becoming Americans" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
-    * Complete Theory Isn't Dead Post 2 and the associated Follow-up
+    * Complete Theory Isn't Dead 2 for `r schedule_assign_tbl$label[3]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 4 - Socioeconomic Status
 
-### Meeting 11 - Tuesday, September 22^nd^ - Social Class {-}
+### Meeting 4-1 - `r schedule_tbl$label[12]` - Social Class {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 4 - Social Class, Inequality, and Poverty," pp. 1-15 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   
 ---
 
-### Meeting 12 - Thursday, September 24^th^ - Inequality and Poverty {-}
+### Meeting 4-2 - `r schedule_tbl$label[13]` - Inequality and Poverty {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 4 - Social Class, Inequality, and Poverty," pp. 15-35 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   * **After Class:**
-    * Complete Sociological Experience 2
+    * Complete Sociological Experience 2 for `r schedule_assign_tbl$label[5]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 ---
 
-### Meeting 13 - Tuesday, September 29^th^ - Socioeconomic Status and Health {-}
+### Meeting 4-3 - `r schedule_tbl$label[14]` - Socioeconomic Status and Health {-}
 
   * **Before Class:**
     * Read Dow and Rehkopf (2010)
       * Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-77249121135&site=eds-live" target="_blank">Pius Library</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 7 - "Not Just a Paycheck" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Make sure you are wrapping up *Mama* Paper 1 for `r schedule_assign_tbl$label[8]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 ---
 
-### Meeting 14 - Thursday, October 1^st^ - QHQ 1 Discussion {-}
+### Meeting 4-4 - `r schedule_tbl$label[15]` - *Mama* Discussion 1 {-}
 
   * **Before Class:**
     * Read *Mama Might Be Better Off Dead*, Chapters 1-5
-    * Complete QHQ Paper 1
+    * Complete *Mama* Paper 1 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 \newpage
 ## Module 5 - Gender and Sexuality
 
-### Meeting 15 - Tuesday, October 6^th^ - Gender and Health {-}
+### Meeting 5-1 - `r schedule_tbl$label[16]` - Gender and Health {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 6 - Gender and Sexuality," pp. 1-28 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Krieger (2003)
-      * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a href="#" target="_blank">Link</a>)
+      * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 ---
 
-### Meeting 16 - Thursday, October 8^th^ - Sexuality and Health {-}
+### Meeting 5-2 - `r schedule_tbl$label[17]` - Sexuality and Health {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 6 - Gender and Sexuality," pp. 28-36 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   * **After Class:**
-    * Study for Quiz 2 on Monday, October 12^th^
+    * Study for Quiz 2 on `r schedule_assign_tbl$label[12]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 6 - Race and Racism
   
-### Meeting 17 - Tuesday, October 13^nd^ - Race and Racism 1 {-}
+### Meeting 6-1 - `r schedule_tbl$label[18]` - Race and Racism 1 {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 1-23 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Reading TBD
     * Read Cooper et al. (2003)
-      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="#" target="_blank">Link</a>)
+      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="https://www-nejm-org.ezp.slu.edu/doi/full/10.1056/NEJMsb022863" target="_blank">Link</a>)
   
 ---
 
-### Meeting 18 - Thursday, October 15^th^ - Race and Racism 2 {-}
+### Meeting 6-2 -`r schedule_tbl$label[19]` - Race and Racism 2 {-}
 
   * **Before Class:**
-    * Reading TBD
-
-  
----
-
-### Fall Break - Tuesday, October 20^th^ {-}
+    * *no assignments*
 
 ---
 
-### Flex Day 1 - Thursday, October 22^nd^ {-}
-
----
-
-### Meeting 19 - Tuesday, October 27^th^ - Race and Racism 3 {-}
+### Meeting 6-3 - `r schedule_tbl$label[20]` - Race and Racism 3 {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 23-28 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Reading TBD
   * **After Class:**
-    * Complete Sociological Experience 3
+    * Complete Sociological Experience 3 for `r schedule_assign_tbl$label[6]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
 ---
 
-### Meeting 20 - Thursday, October 29^th^ - Racism and Health {-}
+### Meeting 6-4 - `r schedule_tbl$label[21]` - Racism and Health {-}
 
   * **Before Class:**
     * Read Jones (2006)
@@ -201,20 +231,20 @@ Select a module from the menu to see details about topics, readings, and assignm
       * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/abs/10.1177/0022146510383838" target="_blank">Link</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 4 - "Bad Sugar" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
-    * Complete Theory Isn't Dead Post 3 and the associated Follow-up
+    * Make sure you are wrapping up *Mama* Paper 2 for `r schedule_assign_tbl$label[9]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 7 - Intersectionality
 
-### Meeting 21 - Tuesday, November 3^rd^ - QHQ 2 Discussion {-}
+### Meeting 7-1 - `r schedule_tbl$label[22]` - *Mama* Discussion 2 {-}
 
   * **Before Class:**
     * Read *Mama Might Be Better Off Dead*, Chapters 6-10
-    * Complete QHQ Paper 2
+    * Complete *Mama* Paper 2 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 ---
 
-### Meeting 22 - Thursday, November 5^th^ - Intersectionality and Health {-}
+### Meeting 7-2 - `r schedule_tbl$label[23]` - Intersectionality and Health {-}
 
   * **Before Class:**
     * Read Collins et al. (2004)
@@ -227,7 +257,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 \newpage
 ## Module 8 - Urban Sociology
 
-### Meeting 23 - Tuesday, November 10^th^ - Urban America {-}
+### Meeting 8-1 - `r schedule_tbl$label[24]` - Urban America {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 12 - Urban Sociology" (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
@@ -236,11 +266,11 @@ Select a module from the menu to see details about topics, readings, and assignm
       * Chapter 2 - "St. Louis: A city of promise, a history of segregation", pp. 14-25
       * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
   * **After Class:**
-    * Complete Sociological Experience 4
+    * Complete Sociological Experience 4 for `r schedule_assign_tbl$label[7]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
 ---
 
-### Meeting 24 - Thursday, November 12^th^ - Cities and Health {-}
+### Meeting 8-2 - `r schedule_tbl$label[25]` - Cities and Health {-}
 
   * **Before Class:**
     * Read selections from *For the Sake of All: A report on the health and well-being of African Americans in St. Louis and why it matters for everyone* (<a href="https://cpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/3/1454/files/2018/06/FSOA_report_2-17zd1xm.pdf" target="_blank">Link</a>)
@@ -249,19 +279,20 @@ Select a module from the menu to see details about topics, readings, and assignm
       * Chapter 5 - "A health profile of African Americans in St. Louis", pp. 46-67
   * **After Class:**
     * Watch *Unnatural Causes*, Part 5 - "Place Matters" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Make sure you are wrapping up *Mama* Paper 3 for `r schedule_assign_tbl$label[10]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 9 - Course Conclusion
 
-### Meeting 23 - Tuesday, November 17^th^ - QHQ 3 Discussion {-}
+### Meeting 9-1 - `r schedule_tbl$label[26]` - *Mama* Discussion 3 {-}
 
   * **Before Class:**
     * Read *Mama Might Be Better Off Dead*, Chapters 11-Epilogue
-    * Complete QHQ Paper 3
+    * Complete *Mama* Paper 3 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 ---
 
-### Meeting 24 - Thursday, November 19^th^ - Course Conclusion {-}
+### Meeting 9-2 - `r schedule_tbl$label[27]` - Course Conclusion {-}
 
   * **Before Class:**
     * Read Quadagno (2010)
@@ -269,10 +300,6 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read Williams (2010)
       * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0071" target="_blank">Link</a>)
   * **After Class:**
-    * Complete Theory Isn't Dead Post 4 and the associated Follow-up
-    * Study for Quiz 3 on Monday, November 23^rd^
-    * Complete the Final Project, which is due on Monday, November 30^th^
+    * Study for Quiz 3 on `r schedule_assign_tbl$label[13]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete the Final Project, which is due on `r schedule_assign_tbl$label[14]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
----
-
-### Flex Day 2 - Tuesday, November 24^th^ {-}
