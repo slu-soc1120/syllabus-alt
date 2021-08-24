@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-01: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2021-08-20"
+date: "2021-08-24"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -36,6 +36,8 @@ other interactions for this course will take place virtually.
 
 **Email:** <chris.prener@slu.edu>
 
+**Text or Call:** 314-884-0386
+
 **Office Hours, Appointment Only:** Wednesdays, 9:00 AM CST to 10:30 AM CST; <a href = "https://calendly.com/chris-prener" target = "_blank">sign-up via Calendly</a> to receive personalized calendar and Zoom invitations (SLU log-in required)
 
 ## Hard-copy Syllabus {-}
@@ -44,6 +46,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 ## Change Log {-}
 
 * August 20, 2021 - Add schedule for Fall 2021
+* August 24, 2021 - Update communication information
 
 ## License {-}
 Copyright © 2016-2021 [Christopher G. Prener](https://chris-prener.github.io)
