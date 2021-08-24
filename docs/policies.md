@@ -46,6 +46,15 @@ Throughout the COVID-19 pandemic, key safeguards like face masks have allowed SL
 
 **When a University-wide face mask requirement is in effect,** students and instructors may choose to wear a face mask or not, as they prefer for their own individual comfort level.
 
+\begin{rmdwarning}
+We do not know when the City of St.~Louis will roll back their mask
+mandate, or what SLU will do after that in terms of mask policies. Even
+if the mask mandate on-campus is rescinded, I will continue to mask in
+class because I have an unvaccinated child at home. If the mask mandate
+does get rescinded, I'd ask for your cooperation and continued masking
+during class to help keep my daughter healthy!
+\end{rmdwarning}
+
 #### ADA Accomodations for Face Mask Requirements
 Saint Louis University is committed to maintaining an inclusive and accessible environment. Individuals who are unable to wear a face mask due to medical reasons should contact the Office of Disability Services (students) or Human Resources (instructors) to initiate the accommodation process identified in the University’s [ADA Policy](https://www.slu.edu/human-resources/pdfs/policies/americans-disabilities-act-policy.pdf). Inquiries or concerns may also be directed to the [Office of Institutional Equity and Diversity](https://www.slu.edu/general-counsel/institutional-equity-diversity/index.php). Notification to instructors of SLU-approved ADA accommodations should be made in writing prior to the first class session in any term (or as soon thereafter as possible).
 
